@@ -1,11 +1,18 @@
 Ofertas Destacadas	
 /black-days
+710
 destacadas
+/black-days	
 
 Ofertas Black	
 /black-days/ofertas
+1765
+/black-days-ofertas-black	
 black
+
 
 Últimas Unidades
 /black-days/ultimas-unidades
 ultimas
+/black-days-ultimas-unidades	
+1766
