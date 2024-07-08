@@ -1,8 +1,11 @@
 Ofertas Destacadas	
 /black-days
+destacadas
 
 Ofertas Black	
 /black-days/ofertas
+black
 
 Últimas Unidades
 /black-days/ultimas-unidades
+ultimas
