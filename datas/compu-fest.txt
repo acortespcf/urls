@@ -1,0 +1,14 @@
+1776 /compu-fest
+Computadores
+
+1777 /compu-fest-tablets
+Tablets
+
+1778 /compu-fest-impresion
+Impresión
+
+1779 /compu-fest-gamer
+Zona Gamer
+
+1780 /compu-fest-ultimas-unidades
+Últimas unidades
