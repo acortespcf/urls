@@ -1,0 +1,108 @@
+
+/ofertas/fiestas-patrias/destacados
+1789	/ofertas-fiestas-patrias-destacados
+Ofertas Destacadas
+destacadas 1
+
+/ofertas/fiestas-patrias
+511	/ofertas-fiestas-patrias
+
+Parlantes
+parlantes
+1
+
+Hogar y Seguridad
+hogayseguridad
+2
+
+Audífonos
+audifonos
+3
+
+SmartTV, Streaming y Proyectores
+smarttv
+4
+
+Fotografía
+fotografia
+5
+
+
+/ofertas/fiestas-patrias/computacion-y-tablets
+1790	/ofertas-fiestas-patrias-computacion-y-tablets
+
+Notebooks
+notebooks
+1
+
+Tablets
+tablets
+2
+
+Desktop y All in One
+desktop
+3
+
+Monitores
+monitores
+4
+
+/ofertas/fiestas-patrias/partes-y-piezas
+1791 /ofertas-fiestas-patrias-partes-y-piezas
+
+Almacenamiento y Memorias RAM
+almacenamiento
+1
+
+Procesadores, Tajetas de Video y Otros
+procesadores
+2
+
+/ofertas/fiestas-patrias/smartphones-y-wearables
+1792	/ofertas-fiestas-patrias-smartphones-y-wearables
+Smartphones
+smartphones
+1
+
+Smartwatches y wearables
+smartwatches
+2
+
+Audífonos
+audifonos
+3
+
+/ofertas/fiestas-patrias/impresion
+1793	/ofertas-fiestas-patrias-impresion
+
+Impresoras y Multifuncionales
+impresoras
+1
+
+Impresión 3D
+tresde
+2
+
+Equipos Especiales
+especiales
+3
+
+Artículos de Oficina
+oficina
+4
+
+
+/ofertas/fiestas-patrias/consolas-y-video-juegos
+1794	/ofertas-fiestas-patrias-consolas-y-video-juegos
+
+Consolas y Video Juegos
+consolas
+1
+
+/ofertas/fiestas-patrias/ultimas-unidades
+1795 /ofertas-fiestas-patrias-ultimas-unidades
+
+Últimas Unidades
+ultimas
+1
+
