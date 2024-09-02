@@ -92,11 +92,11 @@ oficina
 4
 
 
-/ofertas/fiestas-patrias/consolas-y-video-juegos
-1794	/ofertas-fiestas-patrias-consolas-y-video-juegos
+/ofertas/fiestas-patrias/entretenimiento
+1794	/ofertas-fiestas-patrias-entretenimiento
 
-Consolas y Video Juegos
-consolas
+Entretenimiento
+entretenimiento
 1
 
 /ofertas/fiestas-patrias/ultimas-unidades
