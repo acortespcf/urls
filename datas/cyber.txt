@@ -1,0 +1,108 @@
+*Cyber
+cyber
+
+Ofertas Destacadas
+destacados
+----------
+
+*Computación y Tablets
+cyber/computacion-y-tablets
+
+Notebooks
+notebooks
+
+Monitores
+monitores
+
+Tablets
+tablets
+
+Desktop y All In One
+deskyaio
+
+Teclados y Mouses
+teclados
+
+----------
+
+*Gamer Zone
+cyber/gamer-zone
+
+Notebooks Gamer
+gamer
+
+Consolas y Videojuegos
+consolas
+
+Monitores Gamer
+mntgmr
+
+Accesorios y Periféricos Gamer
+accegmr
+-----------
+
+*Smartphones y Wearables
+cyber/smartphones-y-wearables
+
+Smartphones
+smartphones
+
+Smartwatches y Wearables
+wearables
+----------
+
+*Smart TV, Audio y Fotografía
+cyber/smart-tv-audio-y-fotografia
+
+Smart TV y Streaming
+smarttvstreaming
+
+Fotografía y Video
+fotografia
+
+Audífonos y Parlantes
+parlantes
+-----------
+
+*Partes y Piezas
+cyber/partes-y-piezas
+
+Almacenamiento y Memorias RAM
+almacenamiento
+
+Procesadores, Tarjetas Gráficas y Otros
+procesadores
+
+--------------
+*Impresión
+cyber/impresion
+
+Hogar y Oficina
+hogaryoficina
+
+Impresión 3D
+tresde
+
+Equipos Especiales
+equiposespeciales
+
+--------------
+*Hogar Inteligente y Seguridad
+cyber/hogar-inteligente-y-seguridad
+
+Seguridad
+seguridad
+
+Conectividad
+conectividad
+
+Hogar Inteligente
+hogarinteligente
+
+--------------
+*Últimas Unidades
+cyber/ultimas-unidades
+
+Últimas Unidades
+ultimas
+
