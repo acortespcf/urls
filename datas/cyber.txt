@@ -1,108 +1,132 @@
-*Cyber
+94*Cyber
 cyber
 
+1
 Ofertas Destacadas
 destacados
 ----------
 
-*Computación y Tablets
+1747*Computación y Tablets
 cyber/computacion-y-tablets
 
+1
 Notebooks
 notebooks
 
+2
 Monitores
 monitores
 
+3
 Tablets
 tablets
 
+4
 Desktop y All In One
 deskyaio
 
+5
 Teclados y Mouses
 teclados
 
 ----------
 
-*Gamer Zone
+519*Gamer Zone
 cyber/gamer-zone
 
+1
 Notebooks Gamer
 gamer
 
+2
 Consolas y Videojuegos
 consolas
 
+3
 Monitores Gamer
 mntgmr
 
+4
 Accesorios y Periféricos Gamer
 accegmr
 -----------
 
-*Smartphones y Wearables
+1748*Smartphones y Wearables
 cyber/smartphones-y-wearables
 
+1
 Smartphones
 smartphones
 
+2
 Smartwatches y Wearables
 wearables
 ----------
 
-*Smart TV, Audio y Fotografía
+95*Smart TV, Audio y Fotografía
 cyber/smart-tv-audio-y-fotografia
 
+1
 Smart TV y Streaming
 smarttvstreaming
 
+2
 Fotografía y Video
 fotografia
 
+3
 Audífonos y Parlantes
 parlantes
 -----------
 
-*Partes y Piezas
+103*Partes y Piezas
 cyber/partes-y-piezas
 
+1
 Almacenamiento y Memorias RAM
 almacenamiento
 
+2
 Procesadores, Tarjetas Gráficas y Otros
 procesadores
 
 --------------
-*Impresión
+1625*Impresión
 cyber/impresion
 
+1
 Hogar y Oficina
 hogaryoficina
 
+2
 Impresión 3D
 tresde
 
+3
 Equipos Especiales
 equiposespeciales
 
 --------------
-*Hogar Inteligente y Seguridad
+1750*Hogar Inteligente y Seguridad
 cyber/hogar-inteligente-y-seguridad
 
+1
 Seguridad
 seguridad
 
+2
 Conectividad
 conectividad
 
+3
 Hogar Inteligente
 hogarinteligente
 
 --------------
-*Últimas Unidades
+1751*Últimas Unidades
 cyber/ultimas-unidades
 
+1
 Últimas Unidades
 ultimas
 
