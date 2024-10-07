@@ -1,0 +1,145 @@
+Ofertas Destacadas
+/tecnologia-para-todo
+1798 tecnologia-para-todo 
+Ofertas Destacadas
+ofertas-destacadas
+
+/********************************/
+
+Computación y Tablets
+/tecnologia-para-todo/computacion-y-tablets
+1799 tecnologia-para-todo-computacion-y-tablets
+
+1 Notebooks
+notebooks
+
+2 Desktop y AIO
+desktop
+
+3 Tablets
+tablets
+
+4 Monitores
+monitores
+
+5 Accesorios y Periféricos
+accesorios
+
+6 Tabletas Digitalizadoras
+digitalizadoras
+
+/********************************/
+
+Partes, Piezas y Softwares
+/tecnologia-para-todo/partes-piezas-y-softwares
+1800 tecnologia-para-todo-partes-piezas-y-softwares
+
+1 Almacenamiento y Memorias RAM
+almacenamiento
+
+2 Procesadores  y Tarjetas Gráficas
+procesadores
+
+3 Fuentes de Poder y Gabinetes
+fuentespoder
+
+4 Softwares y Códigos Digitales
+codigos
+
+/********************************/
+
+
+Smartphones y Wearables
+/tecnologia-para-todo/smartphones-y-wearables
+1801 tecnologia-para-todo-smartphones-y-wearables
+
+Smartphones
+smartphones
+
+Smartwatches y Wearables
+wearables
+
+Accesorios y Baterías
+baterias
+
+/********************************/
+
+
+Smart TV, Audio y Fotografía
+/tecnologia-para-todo/smart-tv-audio-y-fotografia
+1802 tecnologia-para-todo-smart-tv-audio-y-fotografia
+
+Smart TV, Proyectores y Streaming
+smarttvstreaming
+
+Fotografía y Video
+fotografia
+
+Audífonos y Parlantes
+parlantes
+
+/********************************/
+
+Impresión y Suministros
+/tecnologia-para-todo/impresion-y-Suministros
+1803 tecnologia-para-todo-impresion-y-suministros
+
+Hogar y Oficina
+hogaryoficina
+
+Impresión 3D
+tresde
+
+Equipos Especiales
+equiposespeciales
+
+Suministros
+suministros
+
+/********************************/
+
+Hogar Inteligente y Seguridad
+/tecnologia-para-todo/hogar-inteligente-y-seguridad
+1804 tecnologia-para-todo-hogar-inteligente-y-seguridad
+
+Smarthome y Electromovilidad
+homeyelectro
+
+Seguridad
+seguridad
+
+Automóvil
+automovil
+
+Routers
+routers
+
+Switches y Access Point
+switches
+
+/********************************/
+
+Mundo Gamer y Consolas
+/tecnologia-para-todo/mundo-gamer-y-consolas
+1805 tecnologia-para-todo-mundo-gamer-y-consolas
+
+Notebooks Gamer
+gamer
+
+Consolas, Accesorios y  Juegos
+consolas
+
+Monitores Gamer
+mntgmr
+
+Accesorios y Periféricos Gamer
+accegmr
+
+/********************************/
+
+Ofertas Últimas Unidades
+/tecnologia-para-todo/ultimas-unidades
+1806 tecnologia-para-todo-ofertas-ultimas-unidades
+
+Ofertas Últimas Unidades
+ultimasunidades
