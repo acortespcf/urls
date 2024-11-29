@@ -1,26 +1,146 @@
 Destacados Navidad	
 844 /navidad
 
+1
+Destacados Navidad
+destacados
+
 Computación y Tablets_	
 1452 /navidad-notebooks-desktop
+
+1
+Notebooks
+notebooks
+
+
+2
+Tablets
+tablets
+
+3
+Monitores
+monitores
+
+4
+Desktop y All In One
+deskyaio
+
+5
+Mochilas, Bolsos y Fundas
+mochilas
+
+6
+Accesorios y Periféricos
+accsrisyprfrcs
+
+7
+Códigos Digitales
+codigos
+
 
 Smartphones y Wearables_	
 1232	/navidad-telefonia-y-smartwatch
 
+1
+Smartphones
+smartphones
+
+2
+Smartwatches y Wearables
+wearables
+
+3
+Baterías Externas y Accesorios
+baterias
+
+
 Audio y Video_	
 1830 /navidad-audio-y-video
+
+1
+Smart TV y Streaming
+smarttvstreaming
+
+2
+Audífonos
+Audifonos
+
+3
+Parlantes
+parlantes
+
+4
+Fotografía y Video
+fotografia
+
+5
+Proyectores
+proyectores
+
 
 GamerZone_	
 1231 /navidad-consolas-y-scooters
 
+1
+Notebooks Gamer
+gamer
+
+2
+Monitores Gamer
+mntgmr
+
+3
+Consolas y Videojuegos
+consolas
+
+4
+Audífonos Gamer
+audfnsgmr
+
+5
+Accesorios Gamer
+accegmr
+
+
 Partes y Piezas_	
 582	/navidad-partes-y-piezas
+
+1
+Almacenamiento y Memorias RAM
+almacenamiento
+
+2
+Procesadores, Tarjetas Gráficas y Otros
+procesadores
+
+3
+Gabinetes, Fuentes de Poder y Otros
+gabinetes
 
 Hogar Inteligente_	
 846	/navidad-hogar-tecnologico
 
+1
+Impresión e Impresión 3D
+impresion3d
+
+2
+Seguridad
+seguridad
+
+3
+Conectividad
+conectividad
+
+4
+UPS y Reguladores
+ups
+
 Oportunidades para ti_
 1825	/outlet-online
+
+Oportunidades para ti
+oportunidades
 
 Regalos por Rango de Precio
 1461 /navidad-regalos-por-rango-de-precio
