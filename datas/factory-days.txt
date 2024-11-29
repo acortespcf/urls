@@ -1,0 +1,67 @@
+1718 /factory-days 
+
+Productos Destacados
+Productos Destacados
+/****************************/
+Computación y Tablets
+1719	/factory-days-computadores-y-tablets
+
+Notebooks
+Monitores
+Tablets
+Desktop y All In One
+Accesorios y Periféricos
+Tabletas Digitalizadoras
+
+/****************************/
+Gamer Zone
+1823	/factory-days-gamer
+
+Notebooks Gamer
+Consolas y Videojuegos
+Monitores Gamer
+Accesorios y Periféricos Gamer
+
+/****************************/
+Smartphones y Wearables
+1720	/factory-days-telefonos-y-smartwatches
+
+Smartphones
+Smartwatches y Wearables
+
+/****************************/
+Smart TV, Audio y Fotografía
+1723	/factory-days-audiovisual-y-multimedia
+
+Smart TV, Proyectores y Streaming
+Fotografía y Video
+Audífonos y Parlantes
+
+/****************************/
+Partes y Piezas
+1722	/factory-days-tu-mejor-setup-y-hardware
+
+Almacenamiento y Memorias RAM
+Procesadores, Tarjetas Gráficas y Otros
+
+/****************************/
+Impresión
+1721	/factory-days-monitores-e-impresion
+
+Hogar y Oficina
+Impresión 3D
+Equipos Especiales
+
+/****************************/
+Hogar Inteligente y Seguridad
+1824	/factory-days-hogar-inteligente
+
+Seguridad
+Conectividad
+Hogar Inteligente
+
+/****************************/
+Outlet
+
+outlet-online
+1825

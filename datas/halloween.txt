@@ -1,0 +1,132 @@
+
+1636 /ofertas-halloween
+Ofertas Halloween	
+
+Productos Destacados
+destacados
+
+/**********************************/
+
+1814 /ofertas-halloween-computacion
+Computación de Miedo
+
+Notebooks
+notebooks
+
+Desktop y AIO
+desktop
+
+Tablets
+tablets
+
+Monitores
+monitores
+
+Accesorios y Periféricos
+accesorios
+
+Tabletas Digitalizadoras
+digitalizadoras
+
+/**********************************/
+
+1815 /ofertas-halloween-smart-tv
+Terror en Alta Definición	
+
+Smart TV, Streaming y Proyectores
+tvstreaming
+
+/**********************************/
+
+1816 	/ofertas-halloween-smartphones
+Luz, Cámara y Susto
+
+Smartphones
+smartphones
+
+Fotografía y Video
+fotografiavideo
+
+/**********************************/
+
+1817 /ofertas-halloween-hogar-y-seguridad
+Sin Mountros en Casa
+
+Cámaras Seguridad
+seguridad
+
+Routers, Tarjetas de Red y Extensores
+routers
+
+Switches y Access Point
+switches
+
+/**********************************/
+
+1818 	/ofertas-halloween-gamer
+Monstruos del Gaming
+
+Notebooks Gamer
+notegamer
+
+Consolas, Accesorios y  Juegos
+consolas
+
+Monitores Gamer
+monigmr
+
+Accesorios y Periféricos Gamer
+accgmr
+
+/**********************************/
+
+1819 	/ofertas-halloween-audio
+Escalofríos en cada Nota	
+
+Parlantes
+parlantes
+
+Audífonos
+audifonos
+
+/**********************************/
+
+1821	/ofertas-halloween-partes-y-piezas
+Partes y Piezas para tu Bestia
+
+Almacenamiento y Memorias RAM
+almacenamiento
+
+Procesadores  y Tarjetas Gráficas
+procesadores
+
+Fuentes de Poder y Gabinetes
+fuentes
+
+Softwares y Códigos Digitales
+codigos
+
+/**********************************/
+
+1820 	/ofertas-halloween-impresion
+Imprime tu Pesadilla
+
+Impresión 3D
+tresde
+
+Hogar y Oficina
+hogaryoficina
+
+Equipos Especiales
+equiposespeciales
+
+Suministros
+suministros
+
+/**********************************/
+
+1822 /ofertas-halloween-ultimas-unidades
+Antes que Desaparezcan...
+
+Últimas Unidades
+ultimasunidades

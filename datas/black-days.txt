@@ -17,3 +17,32 @@ ultimas
 /black-days-ultimas-unidades	
 1766
 
+Ofertas Black	
+710 /black-days
+
+Computación y Tablets	
+1525 /black-days-notebooks
+
+Gamer Zone
+731 /black-days-consolas
+
+Smartphones y Wearables	
+839 /black-days-telefonia-y-wearables
+
+Smart TV, Audio y Fotografía	
+712 /black-days-smart-tv-y-audio
+
+Partes y Piezas	
+719 /black-days-partes-y-piezas
+
+Impresión	
+1829	/black-days-impresion
+
+Hogar Inteligente y Seguridad	
+718	/black-days-hogar-tecnologico
+
+Oportunidades para ti
+1825	/outlet-online
+
+
+
