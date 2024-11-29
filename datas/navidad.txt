@@ -13,7 +13,6 @@ Computación y Tablets_
 Notebooks
 notebooks
 
-
 2
 Tablets
 tablets
