@@ -5,6 +5,7 @@ Destacados Navidad
 Destacados Navidad
 destacados
 
+--------------
 Computación y Tablets_	
 1452 /navidad-notebooks-desktop
 
@@ -37,7 +38,7 @@ accsrisyprfrcs
 Códigos Digitales
 codigos
 
-
+--------------
 Smartphones y Wearables_	
 1232	/navidad-telefonia-y-smartwatch
 
@@ -53,7 +54,7 @@ wearables
 Baterías Externas y Accesorios
 baterias
 
-
+--------------
 Audio y Video_	
 1830 /navidad-audio-y-video
 
@@ -77,7 +78,7 @@ fotografia
 Proyectores
 proyectores
 
-
+--------------
 GamerZone_	
 1231 /navidad-consolas-y-scooters
 
@@ -101,7 +102,7 @@ audfnsgmr
 Accesorios Gamer
 accegmr
 
-
+--------------
 Partes y Piezas_	
 582	/navidad-partes-y-piezas
 
@@ -117,6 +118,7 @@ procesadores
 Gabinetes, Fuentes de Poder y Otros
 gabinetes
 
+--------------
 Hogar Inteligente_	
 846	/navidad-hogar-tecnologico
 
@@ -136,14 +138,66 @@ conectividad
 UPS y Reguladores
 ups
 
+--------------
 Oportunidades para ti_
 1825	/outlet-online
 
+1
 Oportunidades para ti
 oportunidades
 
+--------------
 Regalos por Rango de Precio
 1461 /navidad-regalos-por-rango-de-precio
 
+1
+Regalos por menos de $50.000
+cincuentaomenos
+
+2
+Regalos de $50.001 a $99.990
+noventainueve
+
+3
+Regalos de $100.000 a $199.990
+cientonoventa
+
+4
+Regalos de $200.000 a $499.990
+cuatronueve
+
+5
+Regalos de $500.000 a $999.990
+novecientos
+
+6
+Regalos sobre $1.000.000
+unmillon
+
+
+--------------
 ¿A quién le quieres regalar?_
 1462 /navidad-a-quien-le-quieres-regalar
+
+1
+Regalos para amig@s secreto
+secreto
+
+2
+Regalos para niños y niñas
+ninosyninas
+3
+Regalos para jugadores y Gamers
+regalosgamrs
+
+4
+Regalos para el Hogar y Familia
+familia
+
+5
+Regalos para los Adultos y no tanto
+adulto
+
+6
+Regalos para los que aman la tecnología
+amantestec
