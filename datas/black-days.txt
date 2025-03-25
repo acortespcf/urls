@@ -1,48 +1,101 @@
-Ofertas Destacadas	
-/black-days
 710
-destacadas
+Black Days
 /black-days	
+Destacados
+destacados
 
-Ofertas Black	
-/black-days/ofertas
-1765
-/black-days-ofertas-black	
-black
 
+Computación y Gamer Zone
+//noSéCuálEsLaUrl
+Notebooks
+notebooks
+
+Monitores
+monitores
+
+Tablets
+tablets
+
+Desktop y All In One
+desktop
+
+Teclados y Mouses
+teclados
+
+Notebooks Gamer
+ntboksgmr
+
+Consolas y Videojuegos
+Consolas y Videojuegos
+consolas 
+
+Monitores Gamer
+mntrsgmr
+
+Accesorios y Periféricos Gamer
+accsrsyprfrcsgmr
+
+Smartphones y Wearables	
+839 /black-days-telefonia-y-wearables
+Smartphones
+smartphones
+
+Smartwatches y Wearables
+wearables
+
+
+Smart TV, Audio y Fotografía	
+712 /black-days-smart-tv-y-audio
+Smart TV y Streaming
+smarttv
+
+Video, Fotografía y Drones
+video
+
+Audio
+audio
+
+Componentes	
+//noSéCuálEsLaUrl
+Almacenamiento
+almacenamiento
+
+Tarjetas Gráficas y Procesadores
+trjtsgrfcs
+
+Placas y Memorias
+placas
+
+Fuentes de Poder y Gabinetes
+fuentes
+
+Impresión	
+1829	/black-days-impresion
+Hogar y Oficina
+hogaryofcn
+
+Impresión 3D
+imprsn3d
+
+Equipos Especiales
+equpspcls
+
+Hogar Inteligente y Seguridad	
+718	/black-days-hogar-tecnologico
+Seguridad
+seguridad
+
+Conectividad
+conectividad
+
+Hogar Inteligente
+hgrintlgnt
 
 Últimas Unidades
 /black-days/ultimas-unidades
 ultimas
 /black-days-ultimas-unidades	
 1766
-
-Ofertas Black	
-710 /black-days
-
-Computación y Tablets	
-1525 /black-days-notebooks
-
-Gamer Zone
-731 /black-days-consolas
-
-Smartphones y Wearables	
-839 /black-days-telefonia-y-wearables
-
-Smart TV, Audio y Fotografía	
-712 /black-days-smart-tv-y-audio
-
-Partes y Piezas	
-719 /black-days-partes-y-piezas
-
-Impresión	
-1829	/black-days-impresion
-
-Hogar Inteligente y Seguridad	
-718	/black-days-hogar-tecnologico
-
-Oportunidades para ti
-1825	/outlet-online
 
 
 
