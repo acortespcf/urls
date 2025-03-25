@@ -1,0 +1,69 @@
+456	/vuelta-a-clases
+Destacados
+*/ofertas-de-verano
+
+1693	/vuelta-a-clases-computadores-y-tablets
+Computadores y Tablets
+*/vuelta-a-clases/computadores-y-tablets
+*************************
+Notebooks
+Tablets
+Códigos Microsoft 365
+Accesorios y Periféricos
+All in One
+Desktop
+
+1694	/vuelta-a-clases-telefonos-y-smartwatches
+Teléfonos y Smartwatches	
+*/ofertas-de-verano/telefonos-y-smartwatches
+***********
+Smartphones Samsung
+Smartphones
+Smartwatches
+Accesorios
+
+1695	/vuelta-a-clases-monitores-e-impresion
+Monitores e Impresión	
+*/ofertas-de-verano/monitores-e-impresion
+****************
+Monitores
+Soporte Monitores
+Suministros Impresoras
+Impresoras tinta
+Impresoras láser
+Rotuladoras
+Proyectores y Telones
+Impresoras 3D
+Rotuladoras
+
+1696	/vuelta-a-clases-tu-mejor-setup-y-hardware
+Tu mejor Setup y Hardware	
+*/ofertas-de-verano/tu-mejor-setup-y-hardware
+Componentes 
+Pendrives
+Asistentes de Voz
+Hogar Inteligente
+Routers
+Seguridad
+UPS y Reguladores
+Internet satelital
+Webcams
+Micrófonos
+Conectividad
+
+1697	/vuelta-a-clases-audiovisual-y-multimedia
+Audiovisual y Multimedia	
+*/ofertas-de-verano/audiovisual-y-multimedia
+******************
+Smart TV
+Streaming
+Consolas y Videojuegos
+Audífonos
+Parlantes portátiles
+Realidad Virtual
+Tarjetas de Memoria
+Audífonos Gamer
+
+Oportunidades para ti_
+1825	/outlet-online
+*/ofertas-de-verano/oportunidades-para-ti
