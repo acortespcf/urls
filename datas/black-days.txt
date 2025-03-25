@@ -3,93 +3,118 @@ Black Days
 /black-days	
 Destacados
 destacados
+1
 
 
 Computación y Gamer Zone
 //noSéCuálEsLaUrl
 Notebooks
 notebooks
+1
 
 Monitores
 monitores
+2
 
 Tablets
 tablets
+3
 
 Desktop y All In One
 desktop
+4
 
 Teclados y Mouses
 teclados
+5
 
 Notebooks Gamer
 ntboksgmr
+6
 
 Consolas y Videojuegos
 Consolas y Videojuegos
-consolas 
+consolas
+7 
 
 Monitores Gamer
 mntrsgmr
+8
 
 Accesorios y Periféricos Gamer
 accsrsyprfrcsgmr
+9
 
 Smartphones y Wearables	
 839 /black-days-telefonia-y-wearables
 Smartphones
 smartphones
+1
 
 Smartwatches y Wearables
 wearables
+2
 
 
 Smart TV, Audio y Fotografía	
 712 /black-days-smart-tv-y-audio
 Smart TV y Streaming
 smarttv
+1
 
 Video, Fotografía y Drones
 video
+2
 
 Audio
 audio
+3
 
 Componentes	
 //noSéCuálEsLaUrl
 Almacenamiento
 almacenamiento
+1
 
 Tarjetas Gráficas y Procesadores
 trjtsgrfcs
+2
 
 Placas y Memorias
 placas
+3
 
 Fuentes de Poder y Gabinetes
 fuentes
+4
 
 Impresión	
 1829	/black-days-impresion
 Hogar y Oficina
 hogaryofcn
+1
 
 Impresión 3D
 imprsn3d
+2
 
 Equipos Especiales
 equpspcls
+3
 
 Hogar Inteligente y Seguridad	
 718	/black-days-hogar-tecnologico
 Seguridad
 seguridad
+1
 
 Conectividad
 conectividad
+2
 
 Hogar Inteligente
 hgrintlgnt
+3
 
 Últimas Unidades
 /black-days/ultimas-unidades
