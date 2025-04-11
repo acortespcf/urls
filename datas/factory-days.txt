@@ -3,65 +3,216 @@
 Productos Destacados
 Productos Destacados
 /****************************/
-Computación y Tablets
+Computadores y Tablets //OK
 1719	/factory-days-computadores-y-tablets
 
 Notebooks
-Monitores
+notebooks
+1
 Tablets
-Desktop y All In One
+tablets
+2
+Códigos Microsoft 365
+microsoft365
+3
+Códigos Xbox
+cdgsxbox
+4
 Accesorios y Periféricos
-Tabletas Digitalizadoras
+accsrsyprfrcs
+5
+Combos Teclado / Mouse
+combostcldms
+6
+Mouses
+mouses
+7
+Teclados
+teclados
+8
+Bases Notebooks
+basesntbks
+9
+All in One
+allinone
+10
+Desktop
+desktop
+11
+Bolsos Notebooks
+bolsosntbks
+12
+eReaders
+ereaders
+13
 
 /****************************/
-Gamer Zone
-1823	/factory-days-gamer
-
-Notebooks Gamer
-Consolas y Videojuegos
-Monitores Gamer
-Accesorios y Periféricos Gamer
-
-/****************************/
-Smartphones y Wearables
+Teléfonos y Smartwatches //OK
 1720	/factory-days-telefonos-y-smartwatches
 
+Smartphones Samsung
+samsung
+1
 Smartphones
-Smartwatches y Wearables
+smartphones
+2
+Smartwatches
+smartwatches
+3
+Accesorios
+acsristl
+4
 
 /****************************/
-Smart TV, Audio y Fotografía
+Monitores e Impresión //OK
+1721	/factory-days-monitores-e-impresion
+Monitores
+monitores
+1
+Soporte Monitores
+sprtmntrs
+2
+Suministros Impresoras
+smnstrsmprsrs
+3
+Impresoras tinta
+imprsraslsr
+4
+Rotuladoras
+rotuladoras
+4
+Proyectores y Telones
+pryctrsytlns
+5
+Impresoras 3D
+Rotuladoras
+
+/****************************/
+Componentes y Conectividad /OK
+1839 /factory-days-componentes-y-conectividad
+
+Almacenamiento
+almcnmnt
+1
+Tarjetas Gráficas y Procesadores
+trjtsgafcsyprcsdrs
+2
+Placas y Memorias
+plcsymmrs
+3
+Fuentes de Poder y Gabinetes
+funtsdpdrygbnts
+4
+Pendrives
+pndrvs
+4
+Asistentes de Voz
+asstntsdvz
+6
+Hogar Inteligente
+hgrntlgnt
+7
+Routers
+rtrs
+8
+Seguridad
+sgrdd
+9
+UPS y Reguladores
+upsyrgldrs
+10
+Internet satelital
+intrntstltl
+11
+Webcams
+wbcms
+12
+Micrófonos
+mcrfns
+13
+
+HUB USB
+hubsb
+14
+
+Conectividad
+conectividad
+15
+
+Tarjetas de Memoria
+trjtsdmmr
+16
+
+
+Almacenamiento
+Tarjetas Gráficas y Procesadores
+Placas y Memorias
+Fuentes de Poder y Gabinetes
+Pendrives
+Asistentes de Voz
+Routers
+UPS y Reguladores
+Internet satelital
+Webcams
+Micrófonos
+HUB USB
+Conectividad
+Tarjetas de Memoria
+
+/****************************/
+Audiovisual y Multimedia //OK
 1723	/factory-days-audiovisual-y-multimedia
 
-Smart TV, Proyectores y Streaming
-Fotografía y Video
-Audífonos y Parlantes
+Smart TV
+smrtv
+1
+Streaming
+strmng
+2
+Consolas y Videojuegos
+cnslsyvdjgs
+3
+Audífonos
+adfns
+4
+Parlantes portátiles
+prlntsprttls
+5
+Realidad Virtual
+rlddvrtl
+6
+Tarjetas de Memoria
+trjtsdmmr
+7
+Audífonos Gamer
+adfnsgmr
+8
+Accesorios de consolas
+accsrsdcnsls
+9
+Proyectores
+pryctrs
+10
 
 /****************************/
-Partes y Piezas
-1722	/factory-days-tu-mejor-setup-y-hardware
-
-Almacenamiento y Memorias RAM
-Procesadores, Tarjetas Gráficas y Otros
-
-/****************************/
-Impresión
-1721	/factory-days-monitores-e-impresion
-
-Hogar y Oficina
-Impresión 3D
-Equipos Especiales
-
-/****************************/
-Hogar Inteligente y Seguridad
+Hogar Inteligente y Seguridad //OK
 1824	/factory-days-hogar-inteligente
 
 Seguridad
-Conectividad
+sgrdd
+1
 Hogar Inteligente
+hgrntlgnt
+2
 
 /****************************/
-Outlet
+Oportunidades para ti //OK
+1840 /factory-days-oportunidades-para-ti
+Oportunidades para ti
+oportunidades
 
-outlet-online
-1825
+/****************************/
+Solo por pocas horas //OK
+1841 /factory-days-solo-por-pocas-horas
+Solo por pocas horas
+slprpcshrs
