@@ -142,50 +142,44 @@ drones
 
 Componentes
 582	/navidad-partes-y-piezas
+
 Almacenamiento y Memorias RAM
 almacenamiento
-30
-
+1
 
 Tarjetas Gráficas y Procesadores
 graficas
-31
+2
 
 Placas y Memorias
 placas
-32
+3
 
 Fuentes de Poder y Gabinetes
 poder
-33
+4
 
 Regalos para el Hogar
 846 /navidad-hogar-tecnologico
-Impresión e Impresión 3D
-3d
-34
-
-Rotuladoras
-rotuladoras
-35
-
-Hogar Inteligente
-inteligente
-36
 
 Seguridad
 seguridad
-37
+1
 
 Conectividad
 conectividad
-38
+2
+
+Hogar Inteligente
+inteligente
+3
 
 UPS y Reguladores
 ups
-39
+4
 
 
-
-
-
+Impresión 3D
+3d
+Hogar y Oficina
+Rotuladoras

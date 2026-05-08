@@ -1,0 +1,104 @@
+1939	/gamers
+
+1940	/gamers-equipo-gamer
+Notebooks Gamer
+ntboksmr
+
+Desktops Gamer
+dsktpsgr
+
+Smartphones
+smartphones
+
+1941	/gamers-consolas
+Consolas
+consolas
+
+Joysticks Consolas
+jystcks
+
+Volantes
+vlnts
+
+Accesorios Consolas
+accsrscnsls
+
+Juegos Consola
+juegos
+
+1942	/gamers-pantallas
+Monitores Gamer
+mnitrsgar
+
+Monitores
+monitores
+
+Smart TV
+smartv
+
+Proyectores
+proyectores
+
+Soportes
+soportes
+
+1943	/gamers-accesorios-y-perifericos
+Mouses
+mouses
+
+Teclados
+tclads
+
+Combos Teclado / Mouse
+combos
+
+Accesorios Notebooks
+riosnot
+
+Accesorios Gamer
+sorimer
+
+Audífonos Gamer
+audfonsg
+
+Lápices Tablets
+lapices
+
+Webcams
+webcams
+
+Mícrofonos
+microfonos
+
+1944	/gamers-componentes
+Tarjetas Gráficas
+tarjetas
+
+Procesadores
+procesadores
+
+Placas Madres
+placas
+
+Memorias
+memorias
+
+Almacenamiento
+almacenamiento
+
+Gabinetes
+gabinetes
+Fuentes de Poder (PSU)
+fuentes
+
+Refrigeración
+refrigeracion
+
+Ópticos
+opticos
+
+Accesorios
+ace
+
+Routers
+routers
