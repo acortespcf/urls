@@ -4,6 +4,10 @@ dest
 1
 
 1940	/gamers-equipo-gamer
+Destacados
+ngmdst
+1
+
 Notebooks Gamer
 ntboksmr
 2
@@ -17,6 +21,10 @@ smartphones
 4
 
 1941	/gamers-consolas
+Destacados
+tdsolas
+1
+
 Consolas
 consolas
 2
@@ -38,6 +46,10 @@ juegos
 6
 
 1942	/gamers-pantallas
+Destacados
+allasts
+1
+
 Monitores Gamer
 mnitrsgar
 2
@@ -59,6 +71,10 @@ soportes
 6
 
 1943	/gamers-accesorios-y-perifericos
+Destacados
+ifericos
+1
+
 Mouses
 mouses
 2
@@ -96,6 +112,10 @@ microfonos
 10
 
 1944	/gamers-componentes
+Destacados
+cnpmts
+1
+
 Tarjetas Gráficas
 tarjetas
 2
