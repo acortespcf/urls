@@ -1,104 +1,141 @@
 1939	/gamers
+Destacados
+dest
+1
 
 1940	/gamers-equipo-gamer
 Notebooks Gamer
 ntboksmr
+2
 
 Desktops Gamer
 dsktpsgr
+3
 
 Smartphones
 smartphones
+4
 
 1941	/gamers-consolas
 Consolas
 consolas
+2
 
 Joysticks Consolas
 jystcks
+3
 
 Volantes
 vlnts
+4
 
 Accesorios Consolas
 accsrscnsls
+5
 
 Juegos Consola
 juegos
+6
 
 1942	/gamers-pantallas
 Monitores Gamer
 mnitrsgar
+2
 
 Monitores
 monitores
+3
 
 Smart TV
 smartv
+4
 
 Proyectores
 proyectores
+5
 
 Soportes
 soportes
+6
 
 1943	/gamers-accesorios-y-perifericos
 Mouses
 mouses
+2
 
 Teclados
 tclads
+3
 
 Combos Teclado / Mouse
 combos
+4
 
 Accesorios Notebooks
 riosnot
+5
 
 Accesorios Gamer
 sorimer
+6
 
 Audífonos Gamer
 audfonsg
+7
 
 Lápices Tablets
 lapices
+8
 
 Webcams
 webcams
+9
 
 Mícrofonos
 microfonos
+10
 
 1944	/gamers-componentes
 Tarjetas Gráficas
 tarjetas
+2
 
 Procesadores
 procesadores
+3
 
 Placas Madres
 placas
+4
 
 Memorias
 memorias
+5
 
 Almacenamiento
 almacenamiento
+6
 
 Gabinetes
 gabinetes
+7
+
 Fuentes de Poder (PSU)
 fuentes
+8
 
 Refrigeración
 refrigeracion
+9
 
 Ópticos
 opticos
+10
 
 Accesorios
 ace
+11
 
 Routers
 routers
+12
