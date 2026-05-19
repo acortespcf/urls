@@ -1,0 +1,199 @@
+/cyber/computacion-y-gamerzone
+1946 /cyber-computacion-y-gamerzone
+
+Destacados
+dstcdscmpgmr
+1
+
+Notebooks
+ntbks
+2
+
+Notebooks Gamer
+ntbksgmr
+3
+
+Consolas y Videojuegos
+cnslsvdjgs
+4
+
+Desktop y All In One
+dsktpaio
+5
+
+Tablets
+tblets
+6
+
+Kindle
+kndl
+7
+
+
+/cyber/accesorios-y-perifericos
+1947 /cyber-accesorios-y-perifericos
+
+Destacados
+dstcdsacsprf
+1
+
+Mouses
+msses
+2
+
+Teclados
+tclds
+3
+
+Combos Teclado / Mouse
+cmbstcldmse
+4
+
+Accesorios Notebooks
+acsrntbks
+5
+
+Accesorios y Periféricos Gamer
+acsrprfrcsgmr
+6
+
+Lápices Tablets
+lpcstblts
+7
+
+Webcams
+wbcms
+8
+
+
+/cyber/monitores
+1948 /cyber-monitores
+Destacados
+dstcdsmntrs
+1
+
+Monitores Gamer
+mntrsgmr
+2
+
+Monitores
+mntrs
+3
+
+/cyber/smartphones-y-wearables
+1748 /cyber-smartphones-y-wearables
+
+Destacados
+dstcdssmtw
+1
+
+Smartphones
+smrtphns
+2
+
+Smartwatches y Wearables
+smrtwtchwrbls
+3
+
+Accesorios Celulares
+acsrcel
+4
+
+Baterías externas
+btrsextrn
+5
+
+
+/cyber/smart-tv-audio-y-fotografia
+1949 /cyber-smart-tv-audio-y-fotografia
+
+Destacados
+dstcdssmtvaf
+1
+
+Smart TV y Streaming
+smrtvstrm
+2
+
+Video, Fotografía y Drones
+vdftrfdrns
+3
+
+Audio
+ado
+4
+
+Proyectores
+pryctrs
+5
+
+Drones
+drns
+6
+
+
+/cyber/impresion
+1950 /cyber-impresion
+
+Destacados
+dstcdsmprsn
+1
+
+Hogar y Oficina
+hgrofcn
+2
+
+Impresión 3D
+imprsn3d
+3
+
+Equipos Especiales
+eqpsspcls
+4
+
+Oficinas y Puntos de Venta
+ofcpntsvnt
+5
+
+
+/cyber/componentes
+1951 /cyber-componentes
+
+Destacados
+dstcdscmpnts
+1
+
+Almacenamiento
+almcmnt
+2
+
+Tarjetas Gráficas y Procesadores
+trjgrfprcs
+3
+
+Placas y Memorias
+plcsmmr
+4
+
+Fuentes de Poder y Gabinetes
+fntspdrgbnts
+5
+
+/cyber/hogar-inteligente-y-seguridad
+1750 /cyber-hogar-inteligente-y-seguridad
+
+Destacados
+dstcdshgrseg
+1
+
+Hogar Inteligente
+hgrntlgt
+2
+
+Seguridad
+sgrdd
+3
+
+Conectividad
+cnctvdd
+4
