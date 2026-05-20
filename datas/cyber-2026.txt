@@ -29,6 +29,7 @@ Kindle
 kndl
 7
 
+----------
 
 /cyber/accesorios-y-perifericos
 1947 /cyber-accesorios-y-perifericos
@@ -65,6 +66,7 @@ Webcams
 wbcms
 8
 
+----------
 
 /cyber/monitores
 1948 /cyber-monitores
@@ -80,8 +82,10 @@ Monitores
 mntrs
 3
 
-/cyber/smartphones-y-wearables
-1748 /cyber-smartphones-y-wearables
+----------
+
+/cyber/celulares-y-wearables
+1952 /cyber-celulares-y-wearables
 
 Destacados
 dstcdssmtw
@@ -103,6 +107,7 @@ Baterías externas
 btrsextrn
 5
 
+----------
 
 /cyber/smart-tv-audio-y-fotografia
 1949 /cyber-smart-tv-audio-y-fotografia
@@ -131,6 +136,7 @@ Drones
 drns
 6
 
+----------
 
 /cyber/impresion
 1950 /cyber-impresion
@@ -155,6 +161,7 @@ Oficinas y Puntos de Venta
 ofcpntsvnt
 5
 
+----------
 
 /cyber/componentes
 1951 /cyber-componentes
@@ -178,6 +185,8 @@ plcsmmr
 Fuentes de Poder y Gabinetes
 fntspdrgbnts
 5
+
+----------
 
 /cyber/hogar-inteligente-y-seguridad
 1750 /cyber-hogar-inteligente-y-seguridad
