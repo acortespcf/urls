@@ -120,21 +120,17 @@ Smart TV y Streaming
 smrtvstrm
 2
 
-Video, Fotografía y Drones
-vdftrfdrns
-3
-
 Audio
 ado
-4
+3
 
 Proyectores
 pryctrs
-5
+4
 
 Drones
 drns
-6
+5
 
 ----------
 
