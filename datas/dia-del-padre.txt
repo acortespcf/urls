@@ -7,31 +7,6 @@ padredest
 
 ----------
 
-/regalos-dia-del-padre/papa-mundialero
-TODO /regalos-dia-del-padre-papa-mundialero
-
-Destacados
-mundialerodest
-1
-
-Smart TVs
-smarttvs
-2
-
-Proyectores y Telones
-proyectorestelones
-3
-
-Barras de Sonido
-barrassonido
-4
-
-Streaming
-streaming
-5
-
-----------
-
 /regalos-dia-del-padre/papa-tech
 TODO /regalos-dia-del-padre-papa-tech
 
@@ -58,6 +33,32 @@ monitores
 Accesorios Computación
 accesorioscomputacion
 6
+
+----------
+
+
+/regalos-dia-del-padre/papa-mundialero
+TODO /regalos-dia-del-padre-papa-mundialero
+
+Destacados
+mundialerodest
+1
+
+Smart TVs
+smarttvs
+2
+
+Proyectores y Telones
+proyectorestelones
+3
+
+Barras de Sonido
+barrassonido
+4
+
+Streaming
+streaming
+5
 
 ----------
 
