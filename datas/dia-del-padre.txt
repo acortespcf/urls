@@ -1,0 +1,145 @@
+/regalos-dia-del-padre
+TODO /regalos-dia-del-padre
+
+Destacados
+destacados
+1
+
+----------
+
+/regalos-dia-del-padre/papa-mundialero
+TODO /regalos-dia-del-padre-papa-mundialero
+
+Smart TVs
+smarttvs
+1
+
+Proyectores y Telones
+proyectorestelones
+2
+
+Barras de Sonido
+barrassonido
+3
+
+Streaming
+streaming
+4
+
+----------
+
+/regalos-dia-del-padre/papa-tech
+TODO /regalos-dia-del-padre-papa-tech
+
+Notebooks
+notebooks
+1
+
+Tablets
+tablets
+2
+
+Desktop y All in One
+desktopallinone
+3
+
+Monitores
+monitores
+4
+
+Accesorios Computación
+accesorioscomputacion
+5
+
+----------
+
+/regalos-dia-del-padre/papa-smart
+TODO /regalos-dia-del-padre-papa-smart
+
+Smartphones
+smartphones
+1
+
+Smartwatches y Wearables
+wrblssmrtwtchs
+2
+
+Fotografía
+fotografia
+3
+
+Audio
+audio
+4
+
+Drones
+drones
+5
+
+----------
+
+/regalos-dia-del-padre/componentes-para-papa
+TODO /regalos-dia-del-padre-componentes-para-papa
+
+Almacenamiento y Memorias RAM
+almacenamientomemoriasra
+1
+
+GPU, CPU y Placas Madre
+gpucpuplacasmadre
+2
+
+Fuentes de Poder, Gabinetes y Refrigeración
+fuentespodergabinetesref
+3
+
+----------
+
+/regalos-dia-del-padre/papa-gamer
+TODO /regalos-dia-del-padre-papa-gamer
+
+Notebooks Gamer
+notebooksgamer
+1
+
+Monitores Gamer
+monitoresgamer
+2
+
+Consolas y Videojuegos
+consolasvideojuegos
+3
+
+Accesorios Gamer
+accesoriosgamer
+4
+
+----------
+
+/regalos-dia-del-padre/papa-impresionante
+TODO /regalos-dia-del-padre-papa-impresionante
+
+Impresión 3D
+impresion3d
+1
+
+Hogar y Oficina
+hogaroficina
+2
+
+----------
+
+/regalos-dia-del-padre/papa-conectado-y-seguro
+TODO /regalos-dia-del-padre-papa-conectado-y-seguro
+
+Conectividad
+conectividad
+1
+
+Seguridad
+seguridad
+2
+
+UPS
+ups
+3
