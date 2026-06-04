@@ -133,7 +133,12 @@ function datasourceCandidates(words, preferDistinctiveFirst = false) {
 
   if (words.length === 1) {
     const word = words[0]
-    return [word, abbreviateWord(word)]
+    const shifted = word.length > 4 ? `${word.slice(2)}${word.slice(0, 2)}` : word
+    const tailFirst = `${shortTailToken(word)}${word.slice(0, 3)}`
+    return [word, abbreviateWord(word), tailFirst, shifted]
+      .map((value) => value.slice(0, 24))
+      .filter(Boolean)
+      .filter((value, index, list) => list.indexOf(value) === index)
   }
 
   const full = words.join("")
@@ -154,7 +159,64 @@ function prefix(value) {
   return value.slice(0, 2)
 }
 
-function uniqueDatasource(title, used, usedPrefixes, usedLeadingWords) {
+function isFeaturedSeparator(title) {
+  const normalized = normalizeText(title)
+  return normalized.includes("destacado")
+}
+
+function sectionSlugToken(url) {
+  const parts = clean(url)
+    .replace(/\/+$/, "")
+    .split("/")
+    .filter(Boolean)
+
+  const preferredPart = parts[parts.length - 1] || "section"
+  const words = preferredPart
+    .split("-")
+    .map((word) => normalizeText(word).replace(/[^a-z0-9]/g, ""))
+    .filter(Boolean)
+    .filter((word) => !["papa", "regalos", "dia", "del", "de", "para", "y"].includes(word))
+
+  const base = words.length > 0 ? words.join("") : normalizeText(preferredPart).replace(/[^a-z0-9]/g, "")
+  return (base || "section").slice(0, 18)
+}
+
+function featuredDatasourceForSection(url, used, usedPrefixes) {
+  const base = `${sectionSlugToken(url)}dest`.slice(0, 24)
+  let candidate = base
+  let suffix = 2
+
+  while (used.has(candidate) || usedPrefixes.has(prefix(candidate))) {
+    candidate = `${base}${suffix}`.slice(0, 24)
+    suffix += 1
+  }
+
+  used.add(candidate)
+  usedPrefixes.add(prefix(candidate))
+  return candidate
+}
+
+function prioritizeFeaturedItems(items) {
+  const featured = []
+  const regular = []
+
+  for (const item of items) {
+    if (isFeaturedSeparator(item)) {
+      featured.push(item)
+      continue
+    }
+
+    regular.push(item)
+  }
+
+  return [...featured, ...regular]
+}
+
+function uniqueDatasource(title, url, used, usedPrefixes, usedLeadingWords) {
+  if (isFeaturedSeparator(title)) {
+    return featuredDatasourceForSection(url, used, usedPrefixes)
+  }
+
   const words = titleWords(title)
   const preferDistinctiveFirst = words.length > 1 && usedLeadingWords.has(words[0])
   const rawCandidates = datasourceCandidates(words, preferDistinctiveFirst)
@@ -170,12 +232,28 @@ function uniqueDatasource(title, used, usedPrefixes, usedLeadingWords) {
   }
 
   const base = candidates[0] || "item"
+  const fallbackBases = [
+    `x${base}`,
+    `${base.slice(2)}${base.slice(0, 2)}`,
+    `${shortTailToken(base)}${base.slice(0, 3)}`,
+  ]
+
+  for (const fallbackBase of fallbackBases) {
+    const candidate = fallbackBase.slice(0, 24)
+    if (candidate && !used.has(candidate) && !usedPrefixes.has(prefix(candidate))) {
+      used.add(candidate)
+      usedPrefixes.add(prefix(candidate))
+      if (words[0]) usedLeadingWords.add(words[0])
+      return candidate
+    }
+  }
+
   let suffix = 2
-  let candidate = `${base}${suffix}`
+  let candidate = `x${base}${suffix}`.slice(0, 24)
 
   while (used.has(candidate) || usedPrefixes.has(prefix(candidate))) {
     suffix += 1
-    candidate = `${base}${suffix}`
+    candidate = `x${base}${suffix}`.slice(0, 24)
   }
 
   used.add(candidate)
@@ -254,9 +332,10 @@ function renderSections(sections, startId) {
       const usedLeadingWords = new Set()
       const header = nextId === null ? `TODO ${slugFromUrl(section.url)}` : `${nextId++} ${slugFromUrl(section.url)}`
       const lines = [section.url, header, ""]
+      const orderedItems = prioritizeFeaturedItems(section.items)
 
-      section.items.forEach((title, index) => {
-        const datasource = uniqueDatasource(title, used, usedPrefixes, usedLeadingWords)
+      orderedItems.forEach((title, index) => {
+        const datasource = uniqueDatasource(title, section.url, used, usedPrefixes, usedLeadingWords)
         lines.push(title)
         lines.push(datasource)
         lines.push(String(index + 1))

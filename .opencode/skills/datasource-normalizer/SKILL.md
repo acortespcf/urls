@@ -53,15 +53,17 @@ The import should produce datasource text sections in the same `datas/*.txt` for
 2. The line immediately below the title is the datasource.
 3. Add a third line below each datasource with the display order.
 4. Restart numbering from `1` inside each section.
-5. Datasources must avoid collisions with other values that could be considered equivalent.
-6. Prefer short ASCII-like abbreviations without spaces.
-7. If two titles are too similar, make the datasource more specific rather than more human-readable.
-8. Keep the smallest correct edit; do not rewrite unrelated sections.
-9. If the file has broken structure, fix it only enough to restore the pattern consistently.
-10. When importing from CSV, derive the section slug from the URL path.
-11. When importing from CSV and no real numeric id exists, keep a visible placeholder like `TODO /slug` unless the user provides ids.
-12. Within the same section, datasources should avoid sharing the same first two letters whenever possible.
-13. If two items share the same leading concept, keep the simpler one readable and move the distinguishing term forward for the other one.
+5. If a section includes a highlighted separator like `Destacados`, assign it order `1` and continue numbering the remaining items after it.
+6. Datasources must avoid collisions with other values that could be considered equivalent, including cross-section names that start too similarly.
+7. Prefer short ASCII-like abbreviations without spaces.
+8. If two titles are too similar, make the datasource more specific rather than more human-readable.
+9. Keep the smallest correct edit; do not rewrite unrelated sections.
+10. If the file has broken structure, fix it only enough to restore the pattern consistently.
+11. When importing from CSV, derive the section slug from the URL path.
+12. When importing from CSV and no real numeric id exists, keep a visible placeholder like `TODO /slug` unless the user provides ids.
+13. Within the same section, datasources should avoid sharing the same first two letters whenever possible.
+14. If two items share the same leading concept, keep the simpler one readable and move the distinguishing term forward for the other one.
+15. For repeated highlighted separators like `Destacados`, derive the datasource from the section URL or slug so each one starts differently, for example `mundialerodest` instead of repeating `destacados`.
 
 ## Normalization Heuristics
 
@@ -81,8 +83,9 @@ The import should produce datasource text sections in the same `datas/*.txt` for
 2. Detect each section boundary from the landing path line.
 3. For every title/datasource pair, preserve the title and normalize only the datasource.
 4. Insert or update the numeric order line below the datasource.
-5. Validate that numbering is sequential per section.
-6. Validate that the resulting datasources are distinct enough to avoid collisions.
+5. If a `Destacados`-style item exists in the section, move it to the first position before numbering.
+6. Validate that numbering is sequential per section.
+7. Validate that the resulting datasources are distinct enough to avoid collisions, especially for repeated labels like `Destacados` across sections.
 
 ## CSV Import Workflow
 
@@ -103,7 +106,9 @@ datasource
 ```
 
 7. Normalize datasource values and ensure uniqueness within each section.
-8. If asked to write the result, save it as a `datas/*.txt` file.
+8. For repeated labels like `Destacados`, generate a datasource from the section URL or slug so the values do not start alike across sections.
+9. If a `Destacados`-style item exists in the section, place it first so it receives order `1`.
+10. If asked to write the result, save it as a `datas/*.txt` file.
 
 ## Helper Script
 

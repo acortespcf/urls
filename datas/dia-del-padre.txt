@@ -2,7 +2,7 @@
 TODO /regalos-dia-del-padre
 
 Destacados
-destacados
+padredest
 1
 
 ----------
@@ -10,136 +10,164 @@ destacados
 /regalos-dia-del-padre/papa-mundialero
 TODO /regalos-dia-del-padre-papa-mundialero
 
+Destacados
+mundialerodest
+1
+
 Smart TVs
 smarttvs
-1
+2
 
 Proyectores y Telones
 proyectorestelones
-2
+3
 
 Barras de Sonido
 barrassonido
-3
+4
 
 Streaming
 streaming
-4
+5
 
 ----------
 
 /regalos-dia-del-padre/papa-tech
 TODO /regalos-dia-del-padre-papa-tech
 
+Destacados
+techdest
+1
+
 Notebooks
 notebooks
-1
+2
 
 Tablets
 tablets
-2
+3
 
 Desktop y All in One
 desktopallinone
-3
+4
 
 Monitores
 monitores
-4
+5
 
 Accesorios Computación
 accesorioscomputacion
-5
+6
 
 ----------
 
 /regalos-dia-del-padre/papa-smart
 TODO /regalos-dia-del-padre-papa-smart
 
-Smartphones
-smartphones
+Destacados
+smartdest
 1
+
+Smartphones
+phnssma
+2
 
 Smartwatches y Wearables
 wrblssmrtwtchs
-2
+3
 
 Fotografía
 fotografia
-3
+4
 
 Audio
 audio
-4
+5
 
 Drones
 drones
-5
+6
 
 ----------
 
 /regalos-dia-del-padre/componentes-para-papa
 TODO /regalos-dia-del-padre-componentes-para-papa
 
+Destacados
+componentesdest
+1
+
 Almacenamiento y Memorias RAM
 almacenamientomemoriasra
-1
+2
 
 GPU, CPU y Placas Madre
 gpucpuplacasmadre
-2
+3
 
 Fuentes de Poder, Gabinetes y Refrigeración
 fuentespodergabinetesref
-3
+4
 
 ----------
 
 /regalos-dia-del-padre/papa-gamer
 TODO /regalos-dia-del-padre-papa-gamer
 
+Destacados
+gamerdest
+1
+
 Notebooks Gamer
 notebooksgamer
-1
+2
 
 Monitores Gamer
 monitoresgamer
-2
+3
 
 Consolas y Videojuegos
 consolasvideojuegos
-3
+4
 
 Accesorios Gamer
 accesoriosgamer
-4
+5
 
 ----------
 
 /regalos-dia-del-padre/papa-impresionante
 TODO /regalos-dia-del-padre-papa-impresionante
 
-Impresión 3D
-impresion3d
+Destacados
+impresionantedest
 1
+
+Impresión 3D
+3dimprsn
+2
 
 Hogar y Oficina
 hogaroficina
-2
+3
 
 ----------
 
 /regalos-dia-del-padre/papa-conectado-y-seguro
 TODO /regalos-dia-del-padre-papa-conectado-y-seguro
 
-Conectividad
-conectividad
+Destacados
+conectadosegurodest
 1
+
+Conectividad
+cnctvdd
+2
 
 Seguridad
 seguridad
-2
+3
 
 UPS
 ups
-3
+4
