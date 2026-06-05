@@ -8,7 +8,7 @@ padredest
 ----------
 
 /regalos-dia-del-padre/papa-tech
-TODO /regalos-dia-del-padre-papa-tech
+1954	/regalos-dia-del-padre-papa-tech
 
 Destacados
 techdest
@@ -38,7 +38,7 @@ accesorioscomputacion
 
 
 /regalos-dia-del-padre/papa-mundialero
-TODO /regalos-dia-del-padre-papa-mundialero
+1955	/regalos-dia-del-padre-papa-mundialero
 
 Destacados
 mundialerodest
@@ -63,14 +63,14 @@ streaming
 ----------
 
 /regalos-dia-del-padre/papa-smart
-TODO /regalos-dia-del-padre-papa-smart
+1956	/regalos-dia-del-padre-papa-smart
 
 Destacados
-smartdest
+d2smartdest
 1
 
 Smartphones
-phnssma
+smrtphns
 2
 
 Smartwatches y Wearables
@@ -92,7 +92,7 @@ drones
 ----------
 
 /regalos-dia-del-padre/componentes-para-papa
-TODO /regalos-dia-del-padre-componentes-para-papa
+1957	/regalos-dia-del-padre-componentes-para-papa
 
 Destacados
 componentesdest
@@ -113,18 +113,18 @@ fuentespodergabinetesref
 ----------
 
 /regalos-dia-del-padre/papa-gamer
-TODO /regalos-dia-del-padre-papa-gamer
+1958	/regalos-dia-del-padre-papa-gamer
 
 Destacados
 gamerdest
 1
 
 Notebooks Gamer
-notebooksgamer
+ntbksgamer
 2
 
 Monitores Gamer
-monitoresgamer
+mntrsgamer
 3
 
 Consolas y Videojuegos
@@ -132,13 +132,13 @@ consolasvideojuegos
 4
 
 Accesorios Gamer
-accesoriosgamer
+accsrsgamer
 5
 
 ----------
 
 /regalos-dia-del-padre/papa-impresionante
-TODO /regalos-dia-del-padre-papa-impresionante
+1959	/regalos-dia-del-padre-papa-impresionante
 
 Destacados
 impresionantedest
@@ -155,7 +155,7 @@ hogaroficina
 ----------
 
 /regalos-dia-del-padre/papa-conectado-y-seguro
-TODO /regalos-dia-del-padre-papa-conectado-y-seguro
+1960	/regalos-dia-del-padre-papa-conectado-y-seguro
 
 Destacados
 conectadosegurodest

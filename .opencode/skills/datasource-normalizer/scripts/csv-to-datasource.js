@@ -156,7 +156,7 @@ function datasourceCandidates(words, preferDistinctiveFirst = false) {
 }
 
 function prefix(value) {
-  return value.slice(0, 2)
+  return value.slice(0, 4)
 }
 
 function isFeaturedSeparator(title) {
@@ -187,7 +187,7 @@ function featuredDatasourceForSection(url, used, usedPrefixes) {
   let suffix = 2
 
   while (used.has(candidate) || usedPrefixes.has(prefix(candidate))) {
-    candidate = `${base}${suffix}`.slice(0, 24)
+    candidate = `d${suffix}${base}`.slice(0, 24)
     suffix += 1
   }
 
@@ -249,11 +249,11 @@ function uniqueDatasource(title, url, used, usedPrefixes, usedLeadingWords) {
   }
 
   let suffix = 2
-  let candidate = `x${base}${suffix}`.slice(0, 24)
+  let candidate = `x${suffix}${base}`.slice(0, 24)
 
   while (used.has(candidate) || usedPrefixes.has(prefix(candidate))) {
     suffix += 1
-    candidate = `x${base}${suffix}`.slice(0, 24)
+    candidate = `x${suffix}${base}`.slice(0, 24)
   }
 
   used.add(candidate)
@@ -324,12 +324,12 @@ function collectSections(rows) {
 
 function renderSections(sections, startId) {
   let nextId = startId
+  const used = new Set()
+  const usedPrefixes = new Set()
+  const usedLeadingWords = new Set()
 
   return sections
     .map((section) => {
-      const used = new Set()
-      const usedPrefixes = new Set()
-      const usedLeadingWords = new Set()
       const header = nextId === null ? `TODO ${slugFromUrl(section.url)}` : `${nextId++} ${slugFromUrl(section.url)}`
       const lines = [section.url, header, ""]
       const orderedItems = prioritizeFeaturedItems(section.items)

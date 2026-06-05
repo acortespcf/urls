@@ -61,7 +61,7 @@ The import should produce datasource text sections in the same `datas/*.txt` for
 10. If the file has broken structure, fix it only enough to restore the pattern consistently.
 11. When importing from CSV, derive the section slug from the URL path.
 12. When importing from CSV and no real numeric id exists, keep a visible placeholder like `TODO /slug` unless the user provides ids.
-13. Within the same section, datasources should avoid sharing the same first two letters whenever possible.
+13. Across the whole file, datasources should avoid sharing the same leading prefix whenever possible, not just exact equality.
 14. If two items share the same leading concept, keep the simpler one readable and move the distinguishing term forward for the other one.
 15. For repeated highlighted separators like `Destacados`, derive the datasource from the section URL or slug so each one starts differently, for example `mundialerodest` instead of repeating `destacados`.
 
@@ -85,7 +85,7 @@ The import should produce datasource text sections in the same `datas/*.txt` for
 4. Insert or update the numeric order line below the datasource.
 5. If a `Destacados`-style item exists in the section, move it to the first position before numbering.
 6. Validate that numbering is sequential per section.
-7. Validate that the resulting datasources are distinct enough to avoid collisions, especially for repeated labels like `Destacados` across sections.
+7. Validate that the resulting datasources are distinct enough to avoid collisions, especially when two values would begin with the same leading concept like `accesorios...` or `notebooks...`.
 
 ## CSV Import Workflow
 
