@@ -1,5 +1,5 @@
 Regalos día del padre
-/regalos-dia-del-padre (existe hau que cambiarle el nombre)
+/regalos-dia-del-padre
 TODO /regalos-dia-del-padre
 
 Destacados
@@ -8,7 +8,7 @@ padredest
 
 ----------
 Papá Tech
-/regalos-dia-del-padre/computacion Existe
+/regalos-dia-del-padre/computacion
 1954	/regalos-dia-del-padre-papa-tech 
 
 Destacados
@@ -37,7 +37,7 @@ accesorioscomputacion
 
 ----------
 Papá Mundialero
-/regalos-dia-del-padre/papa-mundialero Existe (cambiarle el nombre)
+/regalos-dia-del-padre/smart-tv-y-audio 
 1955	/regalos-dia-del-padre-papa-mundialero 
 
 Destacados
@@ -62,7 +62,7 @@ streaming
 
 ----------
 Papá Smart
-/regalos-dia-del-padre/papa-smart Existe (hay que cambiarle la ruta a celulares-y-wearables)
+/regalos-dia-del-padre/celulares-y-wearables
 1956	/regalos-dia-del-padre-papa-smart 
 
 Destacados
@@ -91,7 +91,7 @@ drones
 
 ----------
 Componentes para Papá
-/regalos-dia-del-padre/componentes-para-papa Existe (hay que cambiarle la ruta a componentes)
+/regalos-dia-del-padre/componentes
 1957	/regalos-dia-del-padre-componentes-para-papa
 
 Destacados
@@ -112,7 +112,7 @@ fuentespodergabinetesref
 
 ----------
 Papá Gamer
-/regalos-dia-del-padre/papa-gamer (no lleva cambio)
+/regalos-dia-del-padre/gamer
 1958	/regalos-dia-del-padre-papa-gamer
 
 Destacados
@@ -137,7 +137,7 @@ accsrsgamer
 
 ----------
 Papá Impresionante
-/regalos-dia-del-padre/papa-impresion (existe hay que cambiarle la ruta)
+/regalos-dia-del-padre/impresion 
 1959	/regalos-dia-del-padre-papa-impresionante
 
 Destacados
@@ -154,7 +154,7 @@ hogaroficina
 
 ----------
 Papá Conectado y Seguro
-/regalos-dia-del-padre/papa-conectado-y-seguro (existe hay que cambiarle la ruta: hogar-inteligente-y-seguridad)
+/regalos-dia-del-padre/hogar-inteligente-y-seguridad
 1960	/regalos-dia-del-padre-papa-conectado-y-seguro
 
 Destacados
