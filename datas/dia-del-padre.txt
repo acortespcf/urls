@@ -1,4 +1,5 @@
-/regalos-dia-del-padre
+Regalos día del padre
+/regalos-dia-del-padre (existe hau que cambiarle el nombre)
 TODO /regalos-dia-del-padre
 
 Destacados
@@ -6,9 +7,9 @@ padredest
 1
 
 ----------
-
-/regalos-dia-del-padre/papa-tech
-1954	/regalos-dia-del-padre-papa-tech
+Papá Tech
+/regalos-dia-del-padre/papa-tech Existe (hay que cambiarle la ruta)
+1954	/regalos-dia-del-padre-papa-tech 
 
 Destacados
 techdest
@@ -35,10 +36,9 @@ accesorioscomputacion
 6
 
 ----------
-
-
-/regalos-dia-del-padre/papa-mundialero
-1955	/regalos-dia-del-padre-papa-mundialero
+Papá Mundialero
+/regalos-dia-del-padre/papa-mundialero Existe (tecnología goleadora también hay que cambiarle la ruta)
+1955	/regalos-dia-del-padre-papa-mundialero 
 
 Destacados
 mundialerodest
@@ -61,9 +61,9 @@ streaming
 5
 
 ----------
-
-/regalos-dia-del-padre/papa-smart
-1956	/regalos-dia-del-padre-papa-smart
+Papá Smart
+/regalos-dia-del-padre/papa-smart Existe (hay que cambiarle la ruta)
+1956	/regalos-dia-del-padre-papa-smart 
 
 Destacados
 d2smartdest
@@ -90,8 +90,8 @@ drones
 6
 
 ----------
-
-/regalos-dia-del-padre/componentes-para-papa
+Componentes para Papá
+/regalos-dia-del-padre/componentes-para-papa Existe (hay que cambiarle la ruta)
 1957	/regalos-dia-del-padre-componentes-para-papa
 
 Destacados
@@ -111,8 +111,8 @@ fuentespodergabinetesref
 4
 
 ----------
-
-/regalos-dia-del-padre/papa-gamer
+Papá Gamer
+/regalos-dia-del-padre/papa-gamer (cambiar solo el nombre)
 1958	/regalos-dia-del-padre-papa-gamer
 
 Destacados
@@ -136,8 +136,8 @@ accsrsgamer
 5
 
 ----------
-
-/regalos-dia-del-padre/papa-impresionante
+Papá Impresionante
+/regalos-dia-del-padre/papa-impresionante (existe hay que cambiarle la ruta)
 1959	/regalos-dia-del-padre-papa-impresionante
 
 Destacados
@@ -153,8 +153,8 @@ hogaroficina
 3
 
 ----------
-
-/regalos-dia-del-padre/papa-conectado-y-seguro
+Papá Conectado y Seguro
+/regalos-dia-del-padre/papa-conectado-y-seguro (existe hay que cambiarle la ruta)
 1960	/regalos-dia-del-padre-papa-conectado-y-seguro
 
 Destacados
