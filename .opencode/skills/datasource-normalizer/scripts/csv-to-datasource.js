@@ -182,15 +182,38 @@ function sectionSlugToken(url) {
 }
 
 function featuredDatasourceForSection(url, used, usedPrefixes) {
-  const base = `${sectionSlugToken(url)}dest`.slice(0, 24)
-  let candidate = base
-  let suffix = 2
+  const token = sectionSlugToken(url)
+  const base = `${token}dest`.slice(0, 24)
 
-  while (used.has(candidate) || usedPrefixes.has(prefix(candidate))) {
-    candidate = `d${suffix}${base}`.slice(0, 24)
-    suffix += 1
+  if (!used.has(base) && !usedPrefixes.has(prefix(base))) {
+    used.add(base)
+    usedPrefixes.add(prefix(base))
+    return base
   }
 
+  const abbreviated = `${abbreviateWord(token)}dest`.slice(0, 24)
+  const tailFirst = `${shortTailToken(token)}${token.slice(0, 4)}dest`.slice(0, 24)
+  const shifted = token.length > 4 ? `${token.slice(2)}${token.slice(0, 2)}dest`.slice(0, 24) : base
+  const rotated = token.length > 4 ? `${token.slice(-4)}${token.slice(0, -4)}dest`.slice(0, 24) : base
+
+  const candidates = [abbreviated, tailFirst, shifted, rotated].filter(
+    (v) => v !== base
+  )
+
+  for (const candidate of [...new Set(candidates)]) {
+    if (!used.has(candidate) && !usedPrefixes.has(prefix(candidate))) {
+      used.add(candidate)
+      usedPrefixes.add(prefix(candidate))
+      return candidate
+    }
+  }
+
+  let suffix = 2
+  let candidate = `d${suffix}${base}`.slice(0, 24)
+  while (used.has(candidate) || usedPrefixes.has(prefix(candidate))) {
+    suffix += 1
+    candidate = `d${suffix}${base}`.slice(0, 24)
+  }
   used.add(candidate)
   usedPrefixes.add(prefix(candidate))
   return candidate
