@@ -1,6 +1,6 @@
 Ofertas de Invierno
 /ofertas-de-invierno
-TODO /ofertas-de-invierno
+1962 /ofertas-de-invierno
 
 Destacados Verano
 ofertasinviernodest
@@ -10,7 +10,7 @@ ofertasinviernodest
 
 Computación y Tablets
 /ofertas-de-invierno/computacion-y-tablets
-TODO /ofertas-de-invierno-computacion-y-tablets
+1963 /ofertas-de-invierno-computacion-y-tablets
 
 Destacados
 computaciontabletsdest
@@ -36,7 +36,7 @@ tabletsereader
 
 Modo Mundial
 /ofertas-de-invierno/modo-mundial
-TODO /ofertas-de-invierno-modo-mundial
+1964 /ofertas-de-invierno-modo-mundial
 
 Destacados
 modomundialdest
@@ -62,7 +62,7 @@ streaming
 
 Entretención y Tiempo Libre
 /ofertas-de-invierno/entretencion-y-tiempo-libre
-TODO /ofertas-de-invierno-entretencion-y-tiempo-libre
+1965 /ofertas-de-invierno-entretencion-y-tiempo-libre
 
 Destacados
 entretenciontiempodest
@@ -96,7 +96,7 @@ parlantes
 
 Accesorios y Periféricos
 /ofertas-de-invierno/accesorios-y-perifericos
-TODO /ofertas-de-invierno-accesorios-y-perifericos
+1966 /ofertas-de-invierno-accesorios-y-perifericos
 
 Destacados
 accsrsprfrdest
@@ -126,7 +126,7 @@ webcams
 
 Smartphones
 /ofertas-de-invierno/smartphones
-TODO /ofertas-de-invierno-smartphones
+1967 /ofertas-de-invierno-smartphones
 
 Destacados
 smrtphnsdest
@@ -152,7 +152,7 @@ bateriascargadores
 
 Componentes
 /ofertas-de-invierno/componentes
-TODO /ofertas-de-invierno-componentes
+1968 /ofertas-de-invierno-componentes
 
 Destacados
 cmpnntsdest
@@ -182,7 +182,7 @@ refrigeracion
 
 Impresión
 /ofertas-de-invierno/impresion
-TODO /ofertas-de-invierno-impresion
+1969 /ofertas-de-invierno-impresion
 
 Destacados
 impresiondest
@@ -200,7 +200,7 @@ Impresión 3D
 
 Seguridad
 /ofertas-de-invierno/seguridad
-TODO /ofertas-de-invierno-seguridad
+1970 /ofertas-de-invierno-seguridad
 
 Destacados
 seguridaddest
