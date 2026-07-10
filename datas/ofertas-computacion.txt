@@ -1,5 +1,5 @@
 /ofertas-computacion
-TODO /ofertas-computacion
+431 /ofertas-computacion
 
 Destacados
 ofcmpdest
@@ -8,7 +8,7 @@ ofcmpdest
 ----------
 
 /ofertas-computacion/computadores
-TODO /ofertas-computacion-computadores
+1974 /ofertas-computacion-computadores
 
 Notebooks
 ntbks
@@ -25,7 +25,7 @@ dsktp
 ----------
 
 /ofertas-computacion/pantallas
-TODO /ofertas-computacion-pantallas
+1975 /ofertas-computacion-pantallas
 
 Tablets
 tblets
@@ -38,7 +38,7 @@ mntrs
 ----------
 
 /ofertas-computacion/accesorios
-TODO /ofertas-computacion-accesorios
+435 /ofertas-computacion-accesorios
 
 Mouses
 msses
@@ -55,7 +55,7 @@ acsrs
 ----------
 
 /ofertas-computacion/gamer
-TODO /ofertas-computacion-gamer
+1976 /ofertas-computacion-gamer
 
 Entretenimieto
 entrtnmto
@@ -72,7 +72,7 @@ almcnextrn
 ----------
 
 /ofertas-computacion/impresion
-TODO /ofertas-computacion-impresion
+1977 /ofertas-computacion-impresion
 
 Impresión
 imprsn

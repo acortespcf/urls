@@ -62,8 +62,9 @@ The import should produce datasource text sections in the same `datas/*.txt` for
 11. When importing from CSV, derive the section slug from the URL path.
 12. When importing from CSV and no real numeric id exists, keep a visible placeholder like `TODO /slug` unless the user provides ids.
 13. Across the whole file, datasources should avoid sharing the same leading prefix whenever possible, not just exact equality.
-14. If two items share the same leading concept, keep the simpler one readable and move the distinguishing term forward for the other one.
-15. For repeated highlighted separators like `Destacados`, derive the datasource from the section URL or slug so each one starts differently, for example `mundialerodest` instead of repeating `destacados`.
+14. Do not repeat the same meaningful token inside two datasource names when they refer to different items; avoid overlaps anywhere in the value, not only at the start. For example, do not pair `consolas` with `accesoriosconsolas`.
+15. If two items share the same leading concept, keep the simpler one readable and move the distinguishing term forward for the other one only if that still avoids repeated tokens; otherwise choose two different concepts entirely.
+16. For repeated highlighted separators like `Destacados`, derive the datasource from the section URL or slug so each one starts differently, for example `mundialerodest` instead of repeating `destacados`.
 
 ## Normalization Heuristics
 
@@ -86,6 +87,7 @@ The import should produce datasource text sections in the same `datas/*.txt` for
 5. If a `Destacados`-style item exists in the section, move it to the first position before numbering.
 6. Validate that numbering is sequential per section.
 7. Validate that the resulting datasources are distinct enough to avoid collisions, especially when two values would begin with the same leading concept like `accesorios...` or `notebooks...`.
+8. Validate that different items do not reuse the same core token anywhere in the datasource value, such as `consolas` inside both `consolas` and `accesoriosconsolas`.
 
 ## CSV Import Workflow
 
@@ -106,9 +108,10 @@ datasource
 ```
 
 7. Normalize datasource values and ensure uniqueness within each section.
-8. For repeated labels like `Destacados`, generate a datasource from the section URL or slug so the values do not start alike across sections.
-9. If a `Destacados`-style item exists in the section, place it first so it receives order `1`.
-10. If asked to write the result, save it as a `datas/*.txt` file.
+8. Validate that different items do not reuse the same core token anywhere in the datasource value.
+9. For repeated labels like `Destacados`, generate a datasource from the section URL or slug so the values do not start alike across sections.
+10. If a `Destacados`-style item exists in the section, place it first so it receives order `1`.
+11. If asked to write the result, save it as a `datas/*.txt` file.
 
 ## Helper Script
 
