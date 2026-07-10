@@ -10,70 +10,90 @@ ofcmpdest
 /ofertas-computacion/computadores
 1974 /ofertas-computacion-computadores
 
+Destacados
+cmptrsdest
+1
+
 Notebooks
 ntbks
-1
+2
 
 All in One
 allinone
-2
+3
 
 Desktop
 dsktp
-3
+4
 
 ----------
 
 /ofertas-computacion/pantallas
 1975 /ofertas-computacion-pantallas
 
+Destacados
+pntllsdest
+1
+
 Tablets
 tblets
-1
+2
 
 Monitores
 mntrs
-2
+3
 
 ----------
 
 /ofertas-computacion/accesorios
 435 /ofertas-computacion-accesorios
 
+Destacados
+acsrsdest
+1
+
 Mouses
 msses
-1
+2
 
 Teclados
 tclds
-2
+3
 
 Accesorios
 acsrs
-3
+4
 
 ----------
 
 /ofertas-computacion/gamer
 1976 /ofertas-computacion-gamer
 
+Destacados
+gamerdest
+1
+
 Entretenimieto
 entrtnmto
-1
+2
 
 Componentes
 cmpnts
-2
+3
 
 Almacenamiento externo
 almcnextrn
-3
+4
 
 ----------
 
 /ofertas-computacion/impresion
 1977 /ofertas-computacion-impresion
 
+Destacados
+imprdest
+1
+
 Impresión
 imprsn
-1
+2
