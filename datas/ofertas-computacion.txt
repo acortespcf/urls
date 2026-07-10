@@ -1,0 +1,79 @@
+/ofertas-computacion
+TODO /ofertas-computacion
+
+Destacados
+ofcmpdest
+1
+
+----------
+
+/ofertas-computacion/computadores
+TODO /ofertas-computacion-computadores
+
+Notebooks
+ntbks
+1
+
+All in One
+allinone
+2
+
+Desktop
+dsktp
+3
+
+----------
+
+/ofertas-computacion/pantallas
+TODO /ofertas-computacion-pantallas
+
+Tablets
+tblets
+1
+
+Monitores
+mntrs
+2
+
+----------
+
+/ofertas-computacion/accesorios
+TODO /ofertas-computacion-accesorios
+
+Mouses
+msses
+1
+
+Teclados
+tclds
+2
+
+Accesorios
+acsrs
+3
+
+----------
+
+/ofertas-computacion/gamer
+TODO /ofertas-computacion-gamer
+
+Entretenimieto
+entrtnmto
+1
+
+Componentes
+cmpnts
+2
+
+Almacenamiento externo
+almcnextrn
+3
+
+----------
+
+/ofertas-computacion/impresion
+TODO /ofertas-computacion-impresion
+
+Impresión
+imprsn
+1
