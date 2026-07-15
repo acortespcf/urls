@@ -1,5 +1,5 @@
 /dia-del-nino
-TODO /dia-del-nino
+1979 /dia-del-nino
 
 Destacados
 ninodest
@@ -8,7 +8,7 @@ ninodest
 ----------
 
 /dia-del-nino/computacion-y-tablets
-TODO /dia-del-nino-computacion-y-tablets
+1980 /dia-del-nino-computacion-y-tablets
 
 Destacados
 cytbdest
@@ -33,7 +33,7 @@ tablets
 ----------
 
 /dia-del-nino/accesorios-de-computacion
-TODO /dia-del-nino-accesorios-de-computacion
+1981 /dia-del-nino-accesorios-de-computacion
 
 Destacados
 adcdest
@@ -58,7 +58,7 @@ accesoriosperifericos
 ----------
 
 /dia-del-nino/componentes-pc
-TODO /dia-del-nino-componentes-pc
+1982 /dia-del-nino-componentes-pc
 
 Destacados
 cmpcdest
@@ -79,7 +79,7 @@ fuentespoderrefrigeracio
 ----------
 
 /dia-del-nino/smartphones-y-wearables
-TODO /dia-del-nino-smartphones-y-wearables
+1983 /dia-del-nino-smartphones-y-wearables
 
 Destacados
 sywdest
@@ -96,7 +96,7 @@ smrtwtchswrbls
 ----------
 
 /dia-del-nino/entretenimiento
-TODO /dia-del-nino-entretenimiento
+1984 /dia-del-nino-entretenimiento
 
 Destacados
 entrdest
@@ -133,7 +133,7 @@ drones
 ----------
 
 /dia-del-nino/diseno-y-creatividad
-TODO /dia-del-nino-diseno-y-creatividad
+1985 /dia-del-nino-diseno-y-creatividad
 
 Destacados
 dycdest
