@@ -1,0 +1,30 @@
+/kit-de-emergencia
+TODO /kit-de-emergencia
+
+Destacados
+kitdeemergenciadest
+1
+
+UPS y Reguladores de Voltaje
+upsreguladoresvoltaje
+2
+
+Baterías Externas (Power Banks) de Alta Capacidad
+bateriasexternaspowerban
+3
+
+Sistemas de Internet Satelital
+sistemasinternetsatelita
+4
+
+Baterías y Cargadores
+crgdrsbtrs
+5
+
+Banda Ancha Móvil (BAM) y Routers 4G/5G
+bandaanchamovilbamrouter
+6
+
+Kits de Vigilancia Autónoma y Cámaras IP
+kitsvigilanciaautonomaca
+7

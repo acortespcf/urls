@@ -1,63 +1,148 @@
-469 /ofertas-dia-del-nino
-Ofertas Destacadas
-destacadas
+/dia-del-nino
+TODO /dia-del-nino
 
-1770 /ofertas-dia-del-nino-computacion-y-tablets
+Destacados
+ninodest
+1
+
+----------
+
+/dia-del-nino/computacion-y-tablets
+TODO /dia-del-nino-computacion-y-tablets
+
+Destacados
+cytbdest
+1
+
 Notebooks
 notebooks
+2
 
 Monitores
 monitores
+3
 
 Desktop y All y One
-desktopaio
+desktopallone
+4
 
 Tablets
 tablets
+5
+
+----------
+
+/dia-del-nino/accesorios-de-computacion
+TODO /dia-del-nino-accesorios-de-computacion
+
+Destacados
+adcdest
+1
+
+Mouses
+mouses
+2
+
+Teclados
+teclados
+3
+
+Combos Teclado / Mouse
+combostecladomouse
+4
 
 Accesorios y Periféricos
-accesorios
+accesoriosperifericos
+5
 
-1771 /ofertas-dia-del-nino-componentes-pc
+----------
+
+/dia-del-nino/componentes-pc
+TODO /dia-del-nino-componentes-pc
+
+Destacados
+cmpcdest
+1
+
 Almacenamiento y Memorias RAM
-almacenamiento
+almacenamientomemoriasra
+2
 
 Procesadores, Tarjetas Gráficas y Placas Madre
-procesadores
+procesadorestarjetasgraf
+3
 
 Fuentes de Poder, Refrigeración  y Gabinetes
-fuentes
+fuentespoderrefrigeracio
+4
 
-1772 /ofertas-dia-del-nino-smartphones-y-wearables
+----------
+
+/dia-del-nino/smartphones-y-wearables
+TODO /dia-del-nino-smartphones-y-wearables
+
+Destacados
+sywdest
+1
+
 Smartphones
 smartphones
+2
 
 Smartwatches  y Wearables
-wearables
+smrtwtchswrbls
+3
 
-1773 /ofertas-dia-del-nino-entretenimiento
-Consolas y Video Juegos
+----------
+
+/dia-del-nino/entretenimiento
+TODO /dia-del-nino-entretenimiento
+
+Destacados
+entrdest
+1
+
+Accesorios Gamer
+gamercsrs
+2
+
+Consolas
 consolas
+3
 
 Smart TV y Streaming
-tvystreaming
+tvstrmngsmrt
+4
 
 Audífonos
 audifonos
+5
 
 Parlantes
 parlantes
+6
 
 Cámaras y Fotografía
-fotografia
+camarasfotografia
+7
 
-1774 /ofertas-dia-del-nino-diseno-y-creatividad
+Drones
+drones
+8
+
+----------
+
+/dia-del-nino/diseno-y-creatividad
+TODO /dia-del-nino-diseno-y-creatividad
+
+Destacados
+dycdest
+1
+
 Rotuladoras, Equipos de Corte y Estampado
-rotuladoras
+rotuladorasequiposcortee
+2
 
 Impresión 3D
-tresde
-
-1775 /ofertas-dia-del-nino-ultimas-unidades
-Últimas Unidades
-ultimas
+impresion3d
+3
