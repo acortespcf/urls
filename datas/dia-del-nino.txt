@@ -110,25 +110,29 @@ Consolas
 consolas
 3
 
+Accesorios Consolas
+accesoriosconsolas
+4
+
 Smart TV y Streaming
 tvstrmngsmrt
-4
+5
 
 Audífonos
 audifonos
-5
+6
 
 Parlantes
 parlantes
-6
+7
 
 Cámaras y Fotografía
 camarasfotografia
-7
+8
 
 Drones
 drones
-8
+9
 
 ----------
 
