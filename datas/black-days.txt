@@ -1,133 +1,244 @@
-***************************************
-710
-Black Days
-/black-days	
+/black-days
+710 /black-days
+
 Destacados
-destacados
+blackdaysdest
 1
 
-***************************************
-	
-Computación y Gamer Zone
-1525 /black-days-notebooks
+----------
+
+/black-days/12-cuotas-sin-interes
+TODO /black-days-12-cuotas-sin-interes
+
+Destacados
+12cuotassininteresdest
+1
+
+----------
+
+/black-days/computacion-y-gamerzone
+TODO /black-days-computacion-y-gamerzone
+
+Destacados
+computaciongamerzodest
+1
+
 Notebooks
 notebooks
-1
-
-Monitores
-monitores
 2
-
-Tablets
-tablets
-3
-
-Desktop y All In One
-desktop
-4
-
-Teclados y Mouses
-teclados
-5
 
 Notebooks Gamer
-ntboksgmr
+gamertbks
+3
+
+Tablets y eReaders
+tabletsereaders
+4
+
+Consolas y Videojuegos
+consolasvideojuegos
+5
+
+Desktop y All In One
+desktopallinone
 6
 
-Consolas y Videojuegos
-Consolas y Videojuegos
-consolas
-7 
+Códigos Microsoft
+codigosmicrosoft
+7
 
-Monitores Gamer
-mntrsgmr
-8
+----------
 
-Accesorios y Periféricos Gamer
-accsrsyprfrcsgmr
-9
+/black-days/accesorios-y-perifericos
+TODO /black-days-accesorios-y-perifericos
 
-***************************************
-Smartphones y Wearables	
-839 /black-days-telefonia-y-wearables
-Smartphones
-smartphones
+Destacados
+accesoriosperiferidest
 1
 
-Smartwatches y Wearables
-wearables
+Mouses
+mouses
 2
 
-***************************************
-Smart TV, Audio y Fotografía	
-712 /black-days-smart-tv-y-audio
-Smart TV y Streaming
-smarttv
+Teclados
+teclados
+3
+
+Combos Teclado / Mouse
+combostecladomouse
+4
+
+Micrófonos
+microfonos
+5
+
+Accesorios Notebooks
+accsrsntbks
+6
+
+Accesorios y Periféricos Gamer
+prfrcsgamercsrs
+7
+
+Lápices Tablets
+lapicestablets
+8
+
+Webcams
+webcams
+9
+
+----------
+
+/black-days/monitores
+TODO /black-days-monitores
+
+Destacados
+monitoresdest
 1
 
-Video, Fotografía y Drones
-video
+Monitores Gamer
+mntrsgamer
+2
+
+Monitores
+ntrsmon
+3
+
+----------
+
+/black-days/celulares-y-wearables
+TODO /black-days-celulares-y-wearables
+
+Destacados
+celulareswearablesdest
+1
+
+Celulares
+cllrs
+2
+
+Smartwatches y Wearables
+smartwatcheswearables
+3
+
+Accesorios Celulares
+csrsllrs
+4
+
+Baterías externas
+bateriasexternas
+5
+
+----------
+
+/black-days/smart-tv-audio-y-fotografia
+TODO /black-days-smart-tv-audio-y-fotografia
+
+Destacados
+smrttvdftgrdest
+1
+
+Smart TV y Streaming
+tvstrmngsmrt
 2
 
 Audio
 audio
 3
 
-***************************************
-Componentes	
-719 /black-days-partes-y-piezas
-Almacenamiento
-almacenamiento
-1
-
-Tarjetas Gráficas y Procesadores
-trjtsgrfcs
-2
-
-Placas y Memorias
-placas
-3
-
-Fuentes de Poder y Gabinetes
-fuentes
+Proyectores
+proyectores
 4
 
-***************************************
-Impresión	
-1829	/black-days-impresion
-Hogar y Oficina
-hogaryofcn
+Drones
+drones
+5
+
+Fotografía
+fotografia
+6
+
+----------
+
+/black-days/impresion
+1829 /black-days-impresion
+
+Destacados
+impresiondest
 1
 
-Impresión 3D
-imprsn3d
+Hogar y Oficina
+hogaroficina
 2
 
-Equipos Especiales
-equpspcls
+Impresión 3D
+3dimprsn
 3
 
-***************************************
-Hogar Inteligente y Seguridad	
-718	/black-days-hogar-tecnologico
+Equipos Especiales
+equiposespeciales
+4
+
+Oficinas y Puntos de Venta
+oficinaspuntosventa
+5
+
+----------
+
+/black-days/componentes
+TODO /black-days-componentes
+
+Destacados
+cmpnntsdest
+1
+
+Almacenamiento
+almacenamiento
+2
+
+Tarjetas Gráficas y Procesadores
+tarjetasgraficasprocesad
+3
+
+Placas Madres y Memorias
+placasmadresmemorias
+4
+
+Fuentes de Poder y Gabinetes
+fuentespodergabinetes
+5
+
+Refrigeración
+refrigeracion
+6
+
+----------
+
+/black-days/hogar-inteligente-y-seguridad
+TODO /black-days-hogar-inteligente-y-seguridad
+
+Destacados
+hgrntlgntsdest
+1
+
+Hogar Inteligente
+intlgntogar
+2
+
 Seguridad
 seguridad
-1
+3
 
 Conectividad
 conectividad
-2
+4
 
-Hogar Inteligente
-hgrintlgnt
-3
+----------
 
-***************************************
-Últimas Unidades
-/black-days/ultimas-unidades
-ultimas
-1766 /black-days-ultimas-unidades	
+/black-days/dia-del-nino
+TODO /black-days-dia-del-nino
 
-
-
-
+Día del Niño
+diadelnino
+1
