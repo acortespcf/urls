@@ -8,7 +8,7 @@ blackdaysdest
 ----------
 
 /black-days/12-cuotas-sin-interes
-TODO /black-days-12-cuotas-sin-interes
+1987 /black-days-12-cuotas-sin-interes
 
 Destacados
 12cuotassininteresdest
@@ -17,7 +17,7 @@ Destacados
 ----------
 
 /black-days/computacion-y-gamerzone
-TODO /black-days-computacion-y-gamerzone
+1988 /black-days-computacion-y-gamerzone
 
 Destacados
 computaciongamerzodest
@@ -50,7 +50,7 @@ codigosmicrosoft
 ----------
 
 /black-days/accesorios-y-perifericos
-TODO /black-days-accesorios-y-perifericos
+1862 /black-days-accesorios-y-perifericos
 
 Destacados
 accesoriosperiferidest
@@ -91,7 +91,7 @@ webcams
 ----------
 
 /black-days/monitores
-TODO /black-days-monitores
+716 /black-days-monitores
 
 Destacados
 monitoresdest
@@ -108,7 +108,7 @@ ntrsmon
 ----------
 
 /black-days/celulares-y-wearables
-TODO /black-days-celulares-y-wearables
+1989 /black-days-celulares-y-wearables
 
 Destacados
 celulareswearablesdest
@@ -133,7 +133,7 @@ bateriasexternas
 ----------
 
 /black-days/smart-tv-audio-y-fotografia
-TODO /black-days-smart-tv-audio-y-fotografia
+1990 /black-days-smart-tv-audio-y-fotografia
 
 Destacados
 smrttvdftgrdest
@@ -187,7 +187,7 @@ oficinaspuntosventa
 ----------
 
 /black-days/componentes
-TODO /black-days-componentes
+1991 /black-days-componentes
 
 Destacados
 cmpnntsdest
@@ -216,7 +216,7 @@ refrigeracion
 ----------
 
 /black-days/hogar-inteligente-y-seguridad
-TODO /black-days-hogar-inteligente-y-seguridad
+1992 /black-days-hogar-inteligente-y-seguridad
 
 Destacados
 hgrntlgntsdest
