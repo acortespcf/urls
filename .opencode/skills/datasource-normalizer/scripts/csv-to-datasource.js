@@ -161,7 +161,7 @@ function prefix(value) {
 
 function isFeaturedSeparator(title) {
   const normalized = normalizeText(title)
-  return normalized.includes("destacado")
+  return normalized.includes("destacado") || normalized.includes("imperdible")
 }
 
 function sectionSlugToken(url) {
@@ -181,26 +181,45 @@ function sectionSlugToken(url) {
   return (base || "section").slice(0, 18)
 }
 
+function sectionSlugWords(url) {
+  const parts = clean(url)
+    .replace(/\/+$/, "")
+    .split("/")
+    .filter(Boolean)
+
+  const preferredPart = parts[parts.length - 1] || "section"
+  const words = preferredPart
+    .split("-")
+    .map((word) => normalizeText(word).replace(/[^a-z0-9]/g, ""))
+    .filter(Boolean)
+    .filter((word) => !["destacados", "destacado", "imperdibles", "imperdible", "dia", "del", "de", "para", "y"].includes(word))
+
+  return words.length > 0 ? words : [normalizeText(preferredPart).replace(/[^a-z0-9]/g, "") || "section"]
+}
+
 function featuredDatasourceForSection(url, used, usedPrefixes) {
+  const words = sectionSlugWords(url)
   const token = sectionSlugToken(url)
-  const base = `${token}dest`.slice(0, 24)
+  const compact = words.map(abbreviateWord).join("")
+  const reversed = words.slice().reverse().map(abbreviateWord).join("")
+  const tailMix = words.map(shortTailToken).join("")
+  const shifted = token.length > 4 ? `${token.slice(2)}${token.slice(0, 2)}` : token
+  const rotated = token.length > 4 ? `${token.slice(-4)}${token.slice(0, -4)}` : token
+  const mixed = words.length > 1
+    ? `${shortTailToken(words[0])}${abbreviateWord(words[words.length - 1])}`
+    : `${shortTailToken(words[0])}${words[0].slice(0, 2)}`
 
-  if (!used.has(base) && !usedPrefixes.has(prefix(base))) {
-    used.add(base)
-    usedPrefixes.add(prefix(base))
-    return base
-  }
+  const candidates = [...new Set([
+    compact,
+    reversed,
+    tailMix,
+    shifted,
+    rotated,
+    mixed,
+    token,
+  ].map((value) => value.slice(0, 24)).filter(Boolean))]
 
-  const abbreviated = `${abbreviateWord(token)}dest`.slice(0, 24)
-  const tailFirst = `${shortTailToken(token)}${token.slice(0, 4)}dest`.slice(0, 24)
-  const shifted = token.length > 4 ? `${token.slice(2)}${token.slice(0, 2)}dest`.slice(0, 24) : base
-  const rotated = token.length > 4 ? `${token.slice(-4)}${token.slice(0, -4)}dest`.slice(0, 24) : base
-
-  const candidates = [abbreviated, tailFirst, shifted, rotated].filter(
-    (v) => v !== base
-  )
-
-  for (const candidate of [...new Set(candidates)]) {
+  for (const candidate of candidates) {
     if (!used.has(candidate) && !usedPrefixes.has(prefix(candidate))) {
       used.add(candidate)
       usedPrefixes.add(prefix(candidate))
@@ -209,10 +228,10 @@ function featuredDatasourceForSection(url, used, usedPrefixes) {
   }
 
   let suffix = 2
-  let candidate = `d${suffix}${base}`.slice(0, 24)
+  let candidate = `${token.slice(0, 1) || "s"}${suffix}${rotated}`.slice(0, 24)
   while (used.has(candidate) || usedPrefixes.has(prefix(candidate))) {
     suffix += 1
-    candidate = `d${suffix}${base}`.slice(0, 24)
+    candidate = `${token.slice(0, 1) || "s"}${suffix}${rotated}`.slice(0, 24)
   }
   used.add(candidate)
   usedPrefixes.add(prefix(candidate))

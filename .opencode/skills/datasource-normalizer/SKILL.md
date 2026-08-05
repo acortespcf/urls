@@ -53,7 +53,7 @@ The import should produce datasource text sections in the same `datas/*.txt` for
 2. The line immediately below the title is the datasource.
 3. Add a third line below each datasource with the display order.
 4. Restart numbering from `1` inside each section.
-5. If a section includes a highlighted separator like `Destacados`, assign it order `1` and continue numbering the remaining items after it.
+5. If a section includes a highlighted separator like `Destacados` or `Imperdibles`, assign it order `1` and continue numbering the remaining items after it.
 6. Datasources must avoid collisions with other values that could be considered equivalent, including cross-section names that start too similarly.
 7. Prefer short ASCII-like abbreviations without spaces.
 8. If two titles are too similar, make the datasource more specific rather than more human-readable.
@@ -64,7 +64,7 @@ The import should produce datasource text sections in the same `datas/*.txt` for
 13. Across the whole file, datasources should avoid sharing the same leading prefix whenever possible, not just exact equality.
 14. Do not repeat the same meaningful token inside two datasource names when they refer to different items; avoid overlaps anywhere in the value, not only at the start. For example, do not pair `consolas` with `accesoriosconsolas`.
 15. If two items share the same leading concept, keep the simpler one readable and move the distinguishing term forward for the other one only if that still avoids repeated tokens; otherwise choose two different concepts entirely.
-16. For repeated highlighted separators like `Destacados`, derive the datasource from the section URL or slug so each one starts differently, for example `mundialerodest` instead of repeating `destacados`.
+16. For repeated highlighted separators like `Destacados` or `Imperdibles`, do not reuse `dest`, `destacado`, `imper` or similar shared roots across sections. Derive each datasource from a different section-specific concept so they overlap as little as possible.
 
 ## Normalization Heuristics
 
@@ -72,6 +72,7 @@ The import should produce datasource text sections in the same `datas/*.txt` for
 - Prefer compressed forms such as dropping vowels when useful.
 - Keep distinguishing terms when needed.
 - Remove accents and other diacritics in datasource values.
+- For highlighted separators, prefer short section-derived identifiers that do not repeat the separator word itself.
 - Examples:
   - `Notebooks` -> `notebooks`
   - `Notebooks Gamer` -> `gmrbks`
@@ -84,7 +85,7 @@ The import should produce datasource text sections in the same `datas/*.txt` for
 2. Detect each section boundary from the landing path line.
 3. For every title/datasource pair, preserve the title and normalize only the datasource.
 4. Insert or update the numeric order line below the datasource.
-5. If a `Destacados`-style item exists in the section, move it to the first position before numbering.
+5. If a `Destacados`- or `Imperdibles`-style item exists in the section, move it to the first position before numbering.
 6. Validate that numbering is sequential per section.
 7. Validate that the resulting datasources are distinct enough to avoid collisions, especially when two values would begin with the same leading concept like `accesorios...` or `notebooks...`.
 8. Validate that different items do not reuse the same core token anywhere in the datasource value, such as `consolas` inside both `consolas` and `accesoriosconsolas`.
@@ -109,8 +110,8 @@ datasource
 
 7. Normalize datasource values and ensure uniqueness within each section.
 8. Validate that different items do not reuse the same core token anywhere in the datasource value.
-9. For repeated labels like `Destacados`, generate a datasource from the section URL or slug so the values do not start alike across sections.
-10. If a `Destacados`-style item exists in the section, place it first so it receives order `1`.
+9. For repeated labels like `Destacados` or `Imperdibles`, generate a datasource from the section URL or slug without reusing the separator word, so the values overlap as little as possible across sections.
+10. If a `Destacados`- or `Imperdibles`-style item exists in the section, place it first so it receives order `1`.
 11. If asked to write the result, save it as a `datas/*.txt` file.
 
 ## Helper Script

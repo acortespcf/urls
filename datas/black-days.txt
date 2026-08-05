@@ -1,26 +1,25 @@
 /black-days
-710 /black-days
+TODO /black-days
 
 Destacados
 blackdaysdest
 1
 
+Solo por Pocas Horas
+soloporpocashoras
+2
+
+Imperdibles
+imperdibles
+3
+
 ----------
 
-/black-days/12-cuotas-sin-interes
-1987 /black-days-12-cuotas-sin-interes
+/black-days/computadores-y-tablets
+TODO /black-days-computadores-y-tablets
 
 Destacados
-12cuotassininteresdest
-1
-
-----------
-
-/black-days/computacion-y-gamerzone
-1988 /black-days-computacion-y-gamerzone
-
-Destacados
-computaciongamerzodest
+computadorestabletsdest
 1
 
 Notebooks
@@ -31,30 +30,63 @@ Notebooks Gamer
 gamertbks
 3
 
-Tablets y eReaders
-tabletsereaders
-4
-
-Consolas y Videojuegos
-consolasvideojuegos
-5
-
-Accesorios Consolas
-videogameaccessories
-6
-
 Desktop y All In One
 desktopallinone
-7
+4
+
+Tablets y eReaders
+tabletsereaders
+5
 
 Códigos Microsoft
 codigosmicrosoft
+6
+
+Imperdibles
+imprdbls
+7
+
+----------
+
+/black-days/gamer
+1993 /black-days-gamer
+
+Destacados
+gamerdest
+1
+
+Notebooks Gamer
+compugamer
+2
+
+Desktops Gamer
+dsktpsgamer
+3
+
+Monitores Gamer
+screensgamer
+4
+
+Consolas y Juegos
+consolasjuegos
+5
+
+Smart TV Gamer
+telegamer
+6
+
+Accesorios Gamer
+accesoriosgamer
+7
+
+Imperdibles
+dblsimp
 8
 
 ----------
 
 /black-days/accesorios-y-perifericos
-1862 /black-days-accesorios-y-perifericos
+TODO /black-days-accesorios-y-perifericos
 
 Destacados
 accesoriosperiferidest
@@ -84,18 +116,18 @@ Accesorios y Periféricos Gamer
 prfrcsgamercsrs
 7
 
-Lápices Tablets
-lapicestablets
-8
-
 Webcams
 webcams
+8
+
+Imperdibles
+perdiblesim
 9
 
 ----------
 
 /black-days/monitores
-716 /black-days-monitores
+TODO /black-days-monitores
 
 Destacados
 monitoresdest
@@ -109,38 +141,46 @@ Monitores
 ntrsmon
 3
 
+Imperdibles
+ximperdibles
+4
+
 ----------
 
-/black-days/celulares-y-wearables
-1989 /black-days-celulares-y-wearables
+/black-days/celulares-y-accesorios
+TODO /black-days-celulares-y-accesorios
 
 Destacados
-celulareswearablesdest
+celularesaccesdest
 1
 
 Celulares
-cllrs
+celulares
 2
 
-Smartwatches y Wearables
-smartwatcheswearables
+Smartwatches
+smrtwtchs
 3
 
 Accesorios Celulares
-csrsllrs
+cllrscsrs
 4
 
 Baterías externas
 bateriasexternas
 5
 
+Imperdibles
+x2imperdibles
+6
+
 ----------
 
 /black-days/smart-tv-audio-y-fotografia
-1990 /black-days-smart-tv-audio-y-fotografia
+TODO /black-days-smart-tv-audio-y-fotografia
 
 Destacados
-smrttvdftgrdest
+smarttvaudiofotodest
 1
 
 Smart TV y Streaming
@@ -163,10 +203,14 @@ Fotografía
 fotografia
 6
 
+Imperdibles
+x3imperdibles
+7
+
 ----------
 
 /black-days/impresion
-1829 /black-days-impresion
+TODO /black-days-impresion
 
 Destacados
 impresiondest
@@ -188,13 +232,17 @@ Oficinas y Puntos de Venta
 oficinaspuntosventa
 5
 
+Imperdibles
+x4imperdibles
+6
+
 ----------
 
 /black-days/componentes
-1991 /black-days-componentes
+TODO /black-days-componentes
 
 Destacados
-cmpnntsdest
+componentesdest
 1
 
 Almacenamiento
@@ -217,13 +265,17 @@ Refrigeración
 refrigeracion
 6
 
+Imperdibles
+x5imperdibles
+7
+
 ----------
 
 /black-days/hogar-inteligente-y-seguridad
-1992 /black-days-hogar-inteligente-y-seguridad
+TODO /black-days-hogar-inteligente-y-seguridad
 
 Destacados
-hgrntlgntsdest
+hogarinteligentesegdest
 1
 
 Hogar Inteligente
@@ -238,11 +290,19 @@ Conectividad
 conectividad
 4
 
+Imperdibles
+x6imperdibles
+5
+
 ----------
 
 /black-days/dia-del-nino
 TODO /black-days-dia-del-nino
 
+Destacados
+diadelninodest
+1
+
 Día del Niño
 diadelnino
-1
+2

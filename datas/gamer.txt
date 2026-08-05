@@ -1,0 +1,160 @@
+/gamer
+3 /gamer
+
+Imperdibles
+gmrbase
+1
+
+----------
+
+/gamer/notebooks-gamer
+1995 /gamer-notebooks-gamer
+
+Imperdibles
+nbkvolt
+1
+
+Notebooks Gamer
+notebooksgamer
+2
+
+----------
+
+/gamer/desktops-gamer
+1996 /gamer-desktops-gamer
+
+Imperdibles
+rigdesk
+1
+
+Desktops Gamer
+desktopsgamer
+2
+
+----------
+
+/gamer/celulares
+1997 /gamer-celulares
+
+Imperdibles
+movix
+1
+
+Celulares
+celulares
+2
+
+----------
+
+/gamer/setup-gamer-streaming
+1998 /gamer-setup-gamer-streaming
+
+Imperdibles
+strmgear
+1
+
+Mouses
+mouses
+2
+
+Teclados
+teclados
+3
+
+Combo Teclado/Mouse
+combotecladomouse
+4
+
+Audífonos y Micrófonos
+audifonosmicrofonos
+5
+
+Monitores
+monitores
+6
+
+Cámaras
+camaras
+7
+
+Aro de Luz
+aroluz
+8
+
+Accesorios
+accesorios
+9
+
+Otros
+otros
+10
+
+----------
+
+/gamer/potencia-tu-pc
+1999 /gamer-potencia-tu-pc
+
+Imperdibles
+pcboost
+1
+
+Procesadores
+procesadores
+2
+
+Placas Madre
+placasmadre
+3
+
+RAM
+ram
+4
+
+Tarjeta Gráfica
+tarjetagrafica
+5
+
+Conectividad
+conectividad
+6
+
+Almacenamiento
+almacenamiento
+7
+
+Gabinetes
+gabinetes
+8
+
+Energía y Refrigeración
+energiarefrigeracion
+9
+
+Sistema Operativo y Software
+sistemaoperativosoftware
+10
+
+----------
+
+/gamer/consolas-y-videojuegos
+2000 /gamer-consolas-y-videojuegos
+
+Imperdibles
+playhub
+1
+
+Consolas
+consolas
+2
+
+Controles
+controles
+3
+
+Smart TV
+smarttv
+4
+
+Accesorios
+accsrs
+5
