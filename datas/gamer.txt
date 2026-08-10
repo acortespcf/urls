@@ -33,6 +33,35 @@ desktopsgamer
 
 ----------
 
+/gamer/monitores-gamer
+2001 /gamer-monitores-gamer
+
+Imperdibles
+pixelhub
+1
+
+Monitores Gamer
+gmscreen
+2
+
+Cables HDMI
+hdmilink
+3
+
+Cables DisplayPort
+dplink
+4
+
+Adaptadores de Video
+vidadapt
+5
+
+Soportes de Monitores
+vesaarm
+6
+
+----------
+
 /gamer/celulares
 1997 /gamer-celulares
 
