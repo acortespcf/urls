@@ -1,0 +1,289 @@
+/aniversario
+2005 /aniversario
+
+Imperdibles
+anvrsr
+1
+
+----------
+
+/aniversario/especial-fiestas-patrias
+2006 /aniversario-especial-fiestas-patrias
+
+Imperdibles
+espclfstsptrs
+1
+
+Parlantes
+parlantes
+2
+
+Hogar y Seguridad
+hogarseguridad
+3
+
+Audífonos
+audifonos
+4
+
+SmartTV, Streaming y Proyectores
+smarttvstreamingproyecto
+5
+
+Fotografía
+fotografia
+6
+
+----------
+
+/aniversario/computadores-y-tablets
+2007 /aniversario-computadores-y-tablets
+
+Imperdibles
+cmptdrstblts
+1
+
+Notebooks
+notebooks
+2
+
+Notebooks Gamer
+gamertbks
+3
+
+Desktop y All In One
+desktopallinone
+4
+
+Tablets y eReaders
+tabletsereaders
+5
+
+Códigos Microsoft
+codigosmicrosoft
+6
+
+----------
+
+/aniversario/gamer
+2008 /aniversario-gamer
+
+Imperdibles
+amer
+1
+
+Notebooks Gamer
+ntbksgamer
+2
+
+Desktops Gamer
+dsktpsgamer
+3
+
+Monitores Gamer
+monitoresgamer
+4
+
+Consolas y Juegos
+consolasjuegos
+5
+
+Smart TV Gamer
+smrttvgamer
+6
+
+Accesorios Gamer
+accesoriosgamer
+7
+
+----------
+
+/aniversario/accesorios-y-perifericos
+2009 /aniversario-accesorios-y-perifericos
+
+Imperdibles
+accsrsprfrcs
+1
+
+Mouses
+mouses
+2
+
+Teclados
+teclados
+3
+
+Combos Teclado / Mouse
+combostecladomouse
+4
+
+Micrófonos
+microfonos
+5
+
+Accesorios Notebooks
+csrstbks
+6
+
+Accesorios y Periféricos Gamer
+prfrcsgamercsrs
+7
+
+Webcams
+webcams
+8
+
+----------
+
+/aniversario/monitores
+2010 /aniversario-monitores
+
+Imperdibles
+mntrs
+1
+
+Monitores Gamer
+ntrsamer
+2
+
+Monitores
+nitoresmo
+3
+
+----------
+
+/aniversario/celulares-y-accesorios
+2011 /aniversario-celulares-y-accesorios
+
+Imperdibles
+cllrsaccsrs
+1
+
+Celulares
+celulares
+2
+
+Smartwatches
+tchssma
+3
+
+Accesorios Celulares
+xcllrscsrs
+4
+
+Baterías externas
+bateriasexternas
+5
+
+----------
+
+/aniversario/smart-tv-audio-y-fotografia
+2012 /aniversario-smart-tv-audio-y-fotografia
+
+Imperdibles
+ftgrfaudiotvsmrt
+1
+
+Smart TV y Streaming
+tvstrmngsmrt
+2
+
+Audio
+udioaud
+3
+
+Proyectores
+proyectores
+4
+
+Drones
+drones
+5
+
+Fotografía
+tgrffot
+6
+
+----------
+
+/aniversario/impresion
+2013 /aniversario-impresion
+
+Imperdibles
+imprsn
+1
+
+Hogar y Oficina
+ofcnogar
+2
+
+Impresión 3D
+3dimprsn
+3
+
+Equipos Especiales
+equiposespeciales
+4
+
+Oficinas y Puntos de Venta
+oficinaspuntosventa
+5
+
+----------
+
+/aniversario/componentes
+2014 /aniversario-componentes
+
+Imperdibles
+cmpnnts
+1
+
+Almacenamiento
+almacenamiento
+2
+
+Tarjetas Gráficas y Procesadores
+tarjetasgraficasprocesad
+3
+
+Placas Madres y Memorias
+placasmadresmemorias
+4
+
+Fuentes de Poder y Gabinetes
+fuentespodergabinetes
+5
+
+Refrigeración
+refrigeracion
+6
+
+----------
+
+/aniversario/hogar-inteligente-y-seguridad
+2015 /aniversario-hogar-inteligente-y-seguridad
+
+Imperdibles
+sgrddintlgnthogar
+1
+
+Hogar Inteligente
+intlgntogar
+2
+
+Seguridad
+seguridad
+3
+
+Conectividad
+conectividad
+4
+
+----------
+
+/aniversario/ultimas-unidades
+TODO /aniversario-ultimas-unidades
+
+Últimas Unidades
+ultimasunidades
+1
