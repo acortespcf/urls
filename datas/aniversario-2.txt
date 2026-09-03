@@ -1,0 +1,322 @@
+/aniversario
+TODO /aniversario
+
+Imperdibles
+fiestax
+1
+
+----------
+
+/aniversario/especial-fiestas-patrias
+TODO /aniversario-especial-fiestas-patrias
+
+Imperdibles
+patriotix
+1
+
+Parlantes
+bocinas
+2
+
+Equipos de Música
+estereo
+3
+
+Audífonos
+fonos
+4
+
+Smart TV y Streaming
+smarttvstreaming
+5
+
+Proyectores
+beam
+6
+
+Fotografía
+camimg
+7
+
+Hogar y Seguridad
+hogarseguridad
+8
+
+----------
+
+/aniversario/computadores-y-tablets
+TODO /aniversario-computadores-y-tablets
+
+Imperdibles
+bytepick
+1
+
+Notebooks
+portatiles
+2
+
+Notebooks Gamer
+lapgmr
+3
+
+Desktop y All In One
+torresaio
+4
+
+Tablets y eReaders
+tabletas
+5
+
+Códigos Microsoft
+codigosmicrosoft
+6
+
+----------
+
+/aniversario/monitores
+TODO /aniversario-monitores
+
+Imperdibles
+viewmax
+1
+
+Monitores Gamer
+rivalview
+2
+
+Monitores
+display
+3
+
+----------
+
+/aniversario/gamer
+TODO /aniversario-gamer
+
+Imperdibles
+arcadego
+1
+
+Notebooks Gamer
+arenaunit
+2
+
+Desktops Gamer
+pcarena
+3
+
+Monitores Gamer
+screenpro
+4
+
+Consolas
+playbox
+5
+
+Smart TV Gamer
+tvplay
+6
+
+Accesorios Consolas
+joyextras
+7
+
+----------
+
+/aniversario/accesorios-y-perifericos
+TODO /aniversario-accesorios-y-perifericos
+
+Imperdibles
+accsrsprfrcs
+1
+
+Mouses
+cursor
+2
+
+Teclados
+keyset
+3
+
+Combos Teclado / Mouse
+duokit
+4
+
+Micrófonos
+micvox
+5
+
+Webcams
+webpix
+6
+
+Accesorios Notebooks
+notextras
+7
+
+Accesorios y Periféricos Gamer
+gearqueid
+8
+
+----------
+
+/aniversario/componentes
+TODO /aniversario-componentes
+
+Imperdibles
+cmpnnts
+1
+
+Almacenamiento
+drives
+2
+
+Tarjetas Gráficas y Procesadores
+gpucores
+3
+
+Placas Madres y Memorias
+boardram
+4
+
+Fuentes de Poder y Gabinetes
+powercase
+5
+
+Refrigeración
+cooling
+6
+
+----------
+
+/aniversario/impresion
+TODO /aniversario-impresion
+
+Imperdibles
+imprsn
+1
+
+Hogar y Oficina
+office
+2
+
+Impresión 3D
+vol3d
+3
+
+Resinas y Filamentos (Impresión 3D)
+resifil
+4
+
+Equipos Especiales
+protools
+5
+
+Oficinas y Puntos de Venta
+posdesk
+6
+
+----------
+
+/aniversario/celulares-y-accesorios
+TODO /aniversario-celulares-y-accesorios
+
+Imperdibles
+phonedeal
+1
+
+Celulares
+mobile
+2
+
+Smartwatches
+weartech
+3
+
+Accesorios Celulares
+phonekit
+4
+
+Baterías externas
+bateriasexternas
+5
+
+----------
+
+/aniversario/smart-tv-y-audio
+TODO /aniversario-smart-tv-y-audio
+
+Imperdibles
+hubtv
+1
+
+Smart TV y Streaming
+streamtv
+2
+
+Proyectores
+pryctrs
+3
+
+Parlantes
+audioset
+4
+
+Equipos de Música
+musbox
+5
+
+Audífonos
+headset
+6
+
+----------
+
+/aniversario/hogar-conectado
+TODO /aniversario-hogar-conectado
+
+Imperdibles
+sgrddintlgnthogar
+1
+
+Hogar Inteligente
+smarthome
+2
+
+Seguridad
+secure
+3
+
+Conectividad
+network
+4
+
+----------
+
+/aniversario/outdoor
+TODO /aniversario-outdoor
+
+Imperdibles
+trailix
+1
+
+Scooters Eléctricos
+eride
+2
+
+Drones
+flydr
+3
+
+Fotografía
+tgrffot
+4
+
+----------
+
+/aniversario/ultimas-unidades
+TODO /aniversario-ultimas-unidades
+
+Últimas Unidades
+ultimasunidades
+1
