@@ -1,5 +1,5 @@
 /aniversario
-TODO /aniversario
+2005 /aniversario
 
 Imperdibles
 fiestax
@@ -8,7 +8,7 @@ fiestax
 ----------
 
 /aniversario/especial-fiestas-patrias
-TODO /aniversario-especial-fiestas-patrias
+2006 /aniversario-especial-fiestas-patrias
 
 Imperdibles
 patriotix
@@ -45,7 +45,7 @@ hogarseguridad
 ----------
 
 /aniversario/computadores-y-tablets
-TODO /aniversario-computadores-y-tablets
+2007 /aniversario-computadores-y-tablets
 
 Imperdibles
 bytepick
@@ -74,7 +74,7 @@ codigosmicrosoft
 ----------
 
 /aniversario/monitores
-TODO /aniversario-monitores
+2010 /aniversario-monitores
 
 Imperdibles
 viewmax
@@ -91,7 +91,7 @@ display
 ----------
 
 /aniversario/gamer
-TODO /aniversario-gamer
+2008 /aniversario-gamer
 
 Imperdibles
 arcadego
@@ -124,7 +124,7 @@ joyextras
 ----------
 
 /aniversario/accesorios-y-perifericos
-TODO /aniversario-accesorios-y-perifericos
+2009 /aniversario-accesorios-y-perifericos
 
 Imperdibles
 accsrsprfrcs
@@ -161,7 +161,7 @@ gearqueid
 ----------
 
 /aniversario/componentes
-TODO /aniversario-componentes
+2014 /aniversario-componentes
 
 Imperdibles
 cmpnnts
@@ -190,7 +190,7 @@ cooling
 ----------
 
 /aniversario/impresion
-TODO /aniversario-impresion
+2013 /aniversario-impresion
 
 Imperdibles
 imprsn
@@ -219,7 +219,7 @@ posdesk
 ----------
 
 /aniversario/celulares-y-accesorios
-TODO /aniversario-celulares-y-accesorios
+2011 /aniversario-celulares-y-accesorios
 
 Imperdibles
 phonedeal
@@ -244,7 +244,7 @@ bateriasexternas
 ----------
 
 /aniversario/smart-tv-y-audio
-TODO /aniversario-smart-tv-y-audio
+2012 /aniversario-smart-tv-y-audio
 
 Imperdibles
 hubtv
@@ -273,7 +273,7 @@ headset
 ----------
 
 /aniversario/hogar-conectado
-TODO /aniversario-hogar-conectado
+2015 /aniversario-hogar-conectado
 
 Imperdibles
 sgrddintlgnthogar
@@ -294,7 +294,7 @@ network
 ----------
 
 /aniversario/outdoor
-TODO /aniversario-outdoor
+2016 /aniversario-outdoor
 
 Imperdibles
 trailix
