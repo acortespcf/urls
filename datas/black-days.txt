@@ -1,308 +1,158 @@
-/black-days
-TODO /black-days
 
-Destacados
-blackdaysdest
-1
+### Nuevos botones landings 2026 (urls modyo)
 
-Solo por Pocas Horas
-soloporpocashoras
-2
+/black-days (OK)
+Black Days
+urlsphinx: black-days
+/black-days/cuotas (CREADA)
+Cuotas
+urlsphinx: black-days-cuotas
 
-Imperdibles
-imperdibles
-3
+/black-days/cupones (CREADA)
+Cupones
+urlsphinx: black-days-cupones
 
-----------
+/black-days/computadores-y-tablets (ACTUALIZADA)
+Computadores y Tablets
 
-/black-days/computadores-y-tablets
-TODO /black-days-computadores-y-tablets
-
-Destacados
-computadorestabletsdest
-1
-
-Notebooks
-notebooks
-2
-
-Notebooks Gamer
-gamertbks
-3
-
-Desktop y All In One
-desktopallinone
-4
-
-Tablets y eReaders
-tabletsereaders
-5
-
-Códigos Microsoft
-codigosmicrosoft
-6
-
-Imperdibles
-imprdbls
-7
-
-----------
-
-/black-days/gamer
-1993 /black-days-gamer
-
-Destacados
-gamerdest
-1
-
-Notebooks Gamer
-compugamer
-2
-
-Desktops Gamer
-dsktpsgamer
-3
-
-Monitores Gamer
-screensgamer
-4
-
-Consolas y Juegos
-consolasjuegos
-5
-
-Smart TV Gamer
-telegamer
-6
-
-Accesorios Gamer
-accesoriosgamer
-7
-
-Imperdibles
-dblsimp
-8
-
-----------
-
-/black-days/accesorios-y-perifericos
-TODO /black-days-accesorios-y-perifericos
-
-Destacados
-accesoriosperiferidest
-1
-
-Mouses
-mouses
-2
-
-Teclados
-teclados
-3
-
-Combos Teclado / Mouse
-combostecladomouse
-4
-
-Micrófonos
-microfonos
-5
-
-Accesorios Notebooks
-accsrsntbks
-6
-
-Accesorios y Periféricos Gamer
-prfrcsgamercsrs
-7
-
-Webcams
-webcams
-8
-
-Imperdibles
-perdiblesim
-9
-
-----------
-
-/black-days/monitores
-TODO /black-days-monitores
-
-Destacados
-monitoresdest
-1
-
-Monitores Gamer
-mntrsgamer
-2
-
+/black-days/monitores (OK)
 Monitores
-ntrsmon
-3
 
-Imperdibles
-ximperdibles
-4
+/black-days/gamer (OK)
+Gamer
 
-----------
+/black-days/accesorios-y-perifericos (OK)
+Accesorios y Periféricos
 
-/black-days/celulares-y-accesorios
-TODO /black-days-celulares-y-accesorios
+/black-days/componentes (OK)
+Componentes
 
-Destacados
-celularesaccesdest
-1
+/black-days/impresion (OK)
+Impresión
 
-Celulares
-celulares
-2
+/black-days/celulares-y-accesorios (OK)
+Celulares y Accesorios
 
-Smartwatches
-smrtwtchs
-3
+/black-days/smart-tv-y-audio (ACTUALIZADA)
+Smart TV y Audio
 
-Accesorios Celulares
-cllrscsrs
-4
+/black-days/hogar-conectado (ACTUALIZADA)
+Hogar Conectado
 
-Baterías externas
-bateriasexternas
-5
+/black-days/outdoor (FALTA)
+Outdoor
+black-days-outdoor
+urlsphinx: black-days-outdoor
 
-Imperdibles
-x2imperdibles
-6
+/black-days/solo-por-pocas-horas (FALTA)
+Solo por pocas horas
+urlsphinx: black-days-solo-por-pocas-horas
 
-----------
 
-/black-days/smart-tv-audio-y-fotografia
-TODO /black-days-smart-tv-audio-y-fotografia
+													
 
-Destacados
-smarttvaudiofotodest
-1
 
-Smart TV y Streaming
-tvstrmngsmrt
-2
-
-Audio
-audio
-3
-
-Proyectores
-proyectores
-4
-
-Drones
-drones
-5
-
-Fotografía
-fotografia
-6
-
-Imperdibles
-x3imperdibles
-7
-
-----------
-
-/black-days/impresion
-TODO /black-days-impresion
-
-Destacados
-impresiondest
-1
-
-Hogar y Oficina
-hogaroficina
-2
-
-Impresión 3D
-3dimprsn
-3
-
-Equipos Especiales
-equiposespeciales
-4
-
-Oficinas y Puntos de Venta
-oficinaspuntosventa
-5
-
-Imperdibles
-x4imperdibles
-6
-
-----------
-
-/black-days/componentes
-TODO /black-days-componentes
-
-Destacados
-componentesdest
-1
-
-Almacenamiento
-almacenamiento
-2
-
-Tarjetas Gráficas y Procesadores
-tarjetasgraficasprocesad
-3
-
-Placas Madres y Memorias
-placasmadresmemorias
-4
-
-Fuentes de Poder y Gabinetes
-fuentespodergabinetes
-5
-
-Refrigeración
-refrigeracion
-6
-
-Imperdibles
-x5imperdibles
-7
-
-----------
-
+### Landings que hay hoy en día en modyo
+/blackdays
+/black-days/gamer
 /black-days/hogar-inteligente-y-seguridad
-TODO /black-days-hogar-inteligente-y-seguridad
+/black-days/computacion-y-gamerzone
+/black-days/celulares-y-accesorios
+/black-days/componentes
+/black-days/smart-tv-audio-y-fotografia
+/black-days/monitores
+/black-days/accesorios-y-perifericos
+/black-days/impresion
 
-Destacados
-hogarinteligentesegdest
-1
 
-Hogar Inteligente
-intlgntogar
-2
 
-Seguridad
-seguridad
-3
 
-Conectividad
-conectividad
-4
 
-Imperdibles
-x6imperdibles
-5
 
-----------
 
-/black-days/dia-del-nino
-TODO /black-days-dia-del-nino
 
-Destacados
-diadelninodest
-1
 
-Día del Niño
-diadelnino
-2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Listado historico urls sphinx
+
+/wd-discos-duros-p10-black
+/black-days
+/black-days-telefonia-y-smartwatch
+/black-days-smart-tv-y-audio
+/black-days-consolas
+/black-days-drones-y-fotografia
+/black-days-desktop-y-all-in-one
+/black-days-monitores
+/black-days-tablets
+/black-days-hogar-tecnologico
+/black-days-partes-y-piezas
+/black-days-telefonia-y-wearables
+/black-days-hogar-digital
+/black-days-apple
+/black-days-consolas-y-scooters
+/black-days-monitores-y-proyectores
+/black-days-linea-blanca
+/black-days-notebooks
+/black-days-all-in-one-y-desktop
+/black-days-ofertas-black
+/black-days-ultimas-unidades
+/black-days-impresion
+/black-days-oportunidades-para-ti
+/black-days-accesorios-y-perifericos
+/black-days-destacados
+/black-days-12-cuotas-sin-interes
+/black-days-computacion-y-gamerzone
+/black-days-celulares-y-wearables
+/black-days-smart-tv-audio-y-fotografia
+/black-days-componentes
+/black-days-hogar-inteligente-y-seguridad
+/black-days-gamer
