@@ -4,155 +4,70 @@
 /black-days (OK)
 Black Days
 urlsphinx: black-days
+710
+
 /black-days/cuotas (CREADA)
 Cuotas
-urlsphinx: black-days-cuotas
+urlsphinx: black-days-cuotas (CREADA)
+2037
 
 /black-days/cupones (CREADA)
 Cupones
-urlsphinx: black-days-cupones
+urlsphinx: black-days-cupones (CREADA)
+2038
 
 /black-days/computadores-y-tablets (ACTUALIZADA)
 Computadores y Tablets
+urlsphinx: /black-days-computadores-y-tablets
+2039
 
 /black-days/monitores (OK)
 Monitores
+urlsphinx: /black-days-monitores
+716
 
 /black-days/gamer (OK)
 Gamer
+urlsphinx: /black-days-gamer
+1993
 
 /black-days/accesorios-y-perifericos (OK)
 Accesorios y Periféricos
+urlsphinx: black-days-accesorios-y-perifericos
+1862
 
 /black-days/componentes (OK)
 Componentes
+urlsphinx: /black-days-componentes
+1991
 
 /black-days/impresion (OK)
 Impresión
+urlsphinx: /black-days-impresion
+1829
 
 /black-days/celulares-y-accesorios (OK)
 Celulares y Accesorios
+urlsphinx: /black-days-celulares-y-accesorios
+2040
 
 /black-days/smart-tv-y-audio (ACTUALIZADA)
 Smart TV y Audio
+urlsphinx /black-days-smart-tv-y-audio
+712
 
 /black-days/hogar-conectado (ACTUALIZADA)
 Hogar Conectado
+urlsphinx: /black-days-hogar-conectado
+2041
 
-/black-days/outdoor (FALTA)
+/black-days/outdoor (CREADA)
 Outdoor
 black-days-outdoor
-urlsphinx: black-days-outdoor
+urlsphinx: /black-days-outdoor
+2042
 
-/black-days/solo-por-pocas-horas (FALTA)
+/black-days/solo-por-pocas-horas (CREADA)
 Solo por pocas horas
-urlsphinx: black-days-solo-por-pocas-horas
-
-
-													
-
-
-### Landings que hay hoy en día en modyo
-/blackdays
-/black-days/gamer
-/black-days/hogar-inteligente-y-seguridad
-/black-days/computacion-y-gamerzone
-/black-days/celulares-y-accesorios
-/black-days/componentes
-/black-days/smart-tv-audio-y-fotografia
-/black-days/monitores
-/black-days/accesorios-y-perifericos
-/black-days/impresion
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Listado historico urls sphinx
-
-/wd-discos-duros-p10-black
-/black-days
-/black-days-telefonia-y-smartwatch
-/black-days-smart-tv-y-audio
-/black-days-consolas
-/black-days-drones-y-fotografia
-/black-days-desktop-y-all-in-one
-/black-days-monitores
-/black-days-tablets
-/black-days-hogar-tecnologico
-/black-days-partes-y-piezas
-/black-days-telefonia-y-wearables
-/black-days-hogar-digital
-/black-days-apple
-/black-days-consolas-y-scooters
-/black-days-monitores-y-proyectores
-/black-days-linea-blanca
-/black-days-notebooks
-/black-days-all-in-one-y-desktop
-/black-days-ofertas-black
-/black-days-ultimas-unidades
-/black-days-impresion
-/black-days-oportunidades-para-ti
-/black-days-accesorios-y-perifericos
-/black-days-destacados
-/black-days-12-cuotas-sin-interes
-/black-days-computacion-y-gamerzone
-/black-days-celulares-y-wearables
-/black-days-smart-tv-audio-y-fotografia
-/black-days-componentes
-/black-days-hogar-inteligente-y-seguridad
-/black-days-gamer
+urlsphinx: /black-days-solo-por-pocas-horas
+2043
