@@ -1,89 +1,92 @@
 /cyber
 94 /cyber
-Destacados
-destacados
+
+Imperdibles
+cybr
 1
 
 ----------
 
-/cyber/computacion-y-gamerzone
-1946 /cyber-computacion-y-gamerzone
+/cyber/cuotas
+2022 /cyber-cuotas
 
-Destacados
-dstcdscmpgmr
+Imperdibles
+ctasimp
+1
+
+Cuotas
+cuotas
+2
+
+----------
+
+/cyber/cupones
+2023 /cyber-cupones
+
+Imperdibles
+cpns
+1
+
+INTEL50
+intel50
+2
+
+LENOVOTAB10
+lenovotab10
+3
+
+LENOVO20
+lnv20
+4
+
+AMD50
+amd50
+5
+
+TOSHIBA10
+toshiba10
+6
+
+----------
+
+/cyber/computadores-y-tablets
+1946 /cyber-computadores-y-tablets
+
+Imperdibles
+cmpttblts
 1
 
 Notebooks
-ntbks
+notebooks
 2
 
 Notebooks Gamer
-ntbksgmr
+gmrbks
 3
-
-Consolas y Videojuegos
-cnslsvdjgs
-4
 
 Desktop y All In One
-dsktpaio
-5
-
-Tablets
-tblets
-6
-
-Kindle
-kndl
-7
-
-----------
-
-/cyber/accesorios-y-perifericos
-1947 /cyber-accesorios-y-perifericos
-
-Destacados
-dstcdsacsprf
-1
-
-Mouses
-msses
-2
-
-Teclados
-tclds
-3
-
-Combos Teclado / Mouse
-cmbstcldmse
+desktopallinone
 4
 
-Accesorios Notebooks
-acsrntbks
+Tablets y eReaders
+tabletsereaders
 5
 
-Accesorios y Periféricos Gamer
-acsrprfrcsgmr
+Códigos Microsoft
+codigosmicrosoft
 6
-
-Lápices Tablets
-lpcstblts
-7
-
-Webcams
-wbcms
-8
 
 ----------
 
 /cyber/monitores
 1948 /cyber-monitores
-Destacados
-dstcdsmntrs
+
+Imperdibles
+pantallapick
 1
 
 Monitores Gamer
-mntrsgmr
+gmrntrs
 2
 
 Monitores
@@ -92,56 +95,109 @@ mntrs
 
 ----------
 
-/cyber/celulares-y-wearables
-1952 /cyber-celulares-y-wearables
+/cyber/gamer
+519 /cyber-gamer
 
-Destacados
-dstcdclwer
+Imperdibles
+gmrpick
 1
 
-Celulares
-celulares
+Notebooks Gamer
+lapgmr
 2
 
-Smartwatches y Wearables
-smrtwtchwrbls
+Desktops Gamer
+dsktpgmr
 3
 
-Accesorios Celulares
-acsrcel
+Monitores Gamer
+gmrdisplay
 4
 
-Baterías externas
-btrsextrn
+Consolas
+consolas
 5
+
+Smart TV Gamer
+smrtvgmr
+6
+
+Accesorios Consolas
+cnslsacsr
+7
+
+SIllas Gamer
+sillasgamer
+8
 
 ----------
 
-/cyber/smart-tv-audio-y-fotografia
-1949 /cyber-smart-tv-audio-y-fotografia
+/cyber/accesorios-y-perifericos
+1947 /cyber-accesorios-y-perifericos
 
-Destacados
-dstcdssmtvaf
+Imperdibles
+perifdest
 1
 
-Smart TV y Streaming
-smrtvstrm
+Mouses
+mouses
 2
 
-Audio
-ado
+Teclados
+teclados
 3
 
-Proyectores
-pryctrs
+Combos Teclado / Mouse
+cmbstcldmse
 4
 
-Drones
-drns
+Micrófonos
+microfonos
 5
 
-Fotografía
-ftgrfia
+Webcams
+webcams
+6
+
+Accesorios Notebooks
+ntbkacsr
+7
+
+Accesorios y Periféricos Gamer
+prfrcsgmr
+8
+
+Bases Notebooks
+bssntbks
+9
+
+----------
+
+/cyber/componentes
+1951 /cyber-componentes
+
+Imperdibles
+hardwarepick
+1
+
+Almacenamiento
+almacenamiento
+2
+
+Tarjetas Gráficas y Procesadores
+trjgrfprcs
+3
+
+Placas Madres y Memorias
+plcasmemorias
+4
+
+Fuentes de Poder y Gabinetes
+fntspdrgbnts
+5
+
+Refrigeración
+refrigeracion
 6
 
 ----------
@@ -149,68 +205,135 @@ ftgrfia
 /cyber/impresion
 1950 /cyber-impresion
 
-Destacados
-dstcdsmprsn
+Imperdibles
+printdest
 1
 
 Hogar y Oficina
-hgrofcn
+hgroficina
 2
 
 Impresión 3D
-imprsn3d
+pr3dimprsn
 3
+
+Resinas y Filamentos (Impresión 3D)
+rsnsflmnts
+4
 
 Equipos Especiales
-eqpsspcls
-4
+spcleqps
+5
 
 Oficinas y Puntos de Venta
-ofcpntsvnt
-5
+pntsvnta
+6
 
 ----------
 
-/cyber/componentes
-1951 /cyber-componentes
+/cyber/celulares-y-accesorios
+1952 /cyber-celulares-y-accesorios
 
-Destacados
-dstcdscmpnts
+Imperdibles
+mobilepick
 1
 
-Almacenamiento
-almcmnt
+Celulares
+celulares
 2
 
-Tarjetas Gráficas y Procesadores
-trjgrfprcs
+Smartwatches
+smartwatches
 3
 
-Placas y Memorias
-plcsmmr
+Accesorios Celulares
+acsrcelular
 4
 
-Fuentes de Poder y Gabinetes
-fntspdrgbnts
+Baterías externas
+bateriasexternas
 5
 
 ----------
 
-/cyber/hogar-inteligente-y-seguridad
-1750 /cyber-hogar-inteligente-y-seguridad
+/cyber/smart-tv-y-audio
+1949 /cyber-smart-tv-y-audio
 
-Destacados
-dstcdshgrseg
+Imperdibles
+smtvaudiodest
+1
+
+Smart TV y Streaming
+tvstrmng
+2
+
+Proyectores
+proyectores
+3
+
+Parlantes
+parlantes
+4
+
+Equipos de Música
+mscneqps
+5
+
+Audífonos
+audifonos
+6
+
+----------
+
+/cyber/hogar-conectado
+1750 /cyber-hogar-conectado
+
+Imperdibles
+domotickpick
 1
 
 Hogar Inteligente
-hgrntlgt
+hogarinteligente
 2
 
 Seguridad
-sgrdd
+seguridad
 3
 
 Conectividad
-cnctvdd
+conectividad
 4
+
+UPS y Reguladores
+upsreguladores
+5
+
+----------
+
+/cyber/outdoor
+2021 /cyber-outdoor
+
+Imperdibles
+outpick
+1
+
+Scooters Eléctricos
+scooterselectricos
+2
+
+Drones
+drones
+3
+
+Fotografía
+fotografia
+4
+
+----------
+
+/cyber/solo-por-pocas-horas
+1882 /cyber-solo-por-pocas-horas
+
+Solo por pocas horas
+soloporpocashoras
+1

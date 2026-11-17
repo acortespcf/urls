@@ -1,0 +1,197 @@
+/creadores-de-contenido
+2028 /creadores-de-contenido
+
+Imperdibles
+crdrscntnd
+1
+
+----------
+
+/creadores-de-contenido/cupones
+TODO /creadores-de-contenido-cupones
+
+Imperdibles
+cpns
+1
+
+NN
+nn
+2
+
+----------
+
+/creadores-de-contenido/tu-setup-de-grabacion
+2029 /creadores-de-contenido-tu-setup-de-grabacion
+
+Imperdibles
+setupgrbcn
+1
+
+Cámaras Mirrorless
+camarasmirrorless
+2
+
+Cámaras Reflex
+reflexdslr
+3
+
+Cámaras de Acción
+acciondeporte
+4
+
+Webcams
+webcams
+5
+
+Trípodes y Soportes
+tripodes
+6
+
+Drones
+drones
+7
+
+----------
+
+/creadores-de-contenido/audio-perfecto
+2030 /creadores-de-contenido-audio-perfecto
+
+Imperdibles
+prfctsonido
+1
+
+Micrófonos PC
+microfonospc
+2
+
+Micrófonos Dinámicos
+dinamicosvoz
+3
+
+Audífonos
+audifonos
+4
+
+Interfaces de Audio / Streaming
+interfacesstreaming
+5
+
+Parlantes
+parlantes
+6
+
+----------
+
+/creadores-de-contenido/iluminacion-y-ambiente
+2031 /creadores-de-contenido-iluminacion-y-ambiente
+
+Imperdibles
+ambntespacio
+1
+
+Iluminación y Efectos
+iluminacionefectos
+2
+
+Focos Energía Solar
+focosenergiasolar
+3
+
+Iluminación Inteligente
+domoticaluz
+4
+
+Soportes para Celulares / Cámaras
+soportesfijacion
+5
+
+----------
+
+/creadores-de-contenido/tu-estacion-de-edicion
+2032 /creadores-de-contenido-tu-estacion-de-edicion
+
+Imperdibles
+estcnedcn
+1
+
+Notebooks
+notebooks
+2
+
+Monitores
+mntrs
+3
+
+Bases y Bolsos Notebooks
+kitportatil
+4
+
+Internet Satelital
+satelitalnet
+5
+
+Almacenamiento
+almacenamiento
+6
+
+Tarjetas de video
+tarjetasvideo
+7
+
+Desktops
+desktops
+8
+
+Mouses
+mouses
+9
+
+Teclado
+teclado
+10
+
+Webcams
+opticausb
+11
+
+Bolsos y Fundas
+bolsosfundas
+12
+
+Bases Notebooks
+basesstand
+13
+
+----------
+
+/creadores-de-contenido/crea-desde-tu-smartphone
+2033 /creadores-de-contenido-crea-desde-tu-smartphone
+
+Imperdibles
+creapocket
+1
+
+Smartphones
+smartphones
+2
+
+Accesorios Celulares
+accesorioscelulares
+3
+
+Adaptadores y Cables
+adaptadorescables
+4
+
+Baterías Externas
+bateriasexternas
+5
+
+----------
+
+/creadores-de-contenido/solo-por-pocas-horas
+TODO /creadores-de-contenido-solo-por-pocas-horas
+
+Solo por pocas horas
+soloporpocashoras
+1

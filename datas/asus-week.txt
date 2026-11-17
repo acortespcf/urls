@@ -1,0 +1,57 @@
+/asus-week
+1848 /asus-week
+
+Imperdibles
+asusweek
+1
+
+----------
+
+/asus-week/computacion
+2020 /asus-week-computacion
+
+Imperdibles
+cptn
+1
+
+Notebooks
+notebooks
+2
+
+All in One
+allinone
+3
+
+----------
+
+/asus-week/monitores
+1927 /asus-week-monitores
+
+Imperdibles
+mntrs
+1
+
+Monitores
+monitores
+2
+
+----------
+
+/asus-week/componentes
+1926 /asus-week-componentes
+
+Imperdibles
+hardware
+1
+
+Placas Madres
+placasmadres
+2
+
+Gabinetes
+gabinetes
+3
+
+Tarjetas Gráficas
+tarjetasgraficas
+4

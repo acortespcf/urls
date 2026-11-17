@@ -1,0 +1,113 @@
+/ofertas
+1743 /ofertas
+
+Imperdibles
+ofrts
+1
+
+----------
+
+/ofertas/cupones
+TODO /ofertas-cupones
+
+Imperdibles
+cpns
+1
+
+NN
+nn
+2
+
+----------
+
+/ofertas/notebooks
+989 /ofertas-notebooks
+
+Imperdibles
+movilidad
+1
+
+Notebooks
+notebooks
+2
+
+Notebooks Gamer
+gaming
+3
+
+Notebooks Corporativos
+empresa
+4
+
+----------
+
+/ofertas/accesorios-notebooks
+2034 /ofertas-accesorios-notebooks
+
+Imperdibles
+periferia
+1
+
+Monitores
+mntrs
+2
+
+Realidad Virtual
+vr
+3
+
+Docking / Hub USB
+dock
+4
+
+Webcams
+webcams
+5
+
+Micrófonos
+microfonos
+6
+
+Bolsos y Fundas
+fundas
+7
+
+Bases Notebooks
+soportes
+8
+
+Cargadores Notebooks
+cargadores
+9
+
+Baterías de Notebooks
+baterias
+10
+
+Candados y Seguridad
+seguridad
+11
+
+Adaptadores USB C
+conversores
+12
+
+Códigos Microsoft
+licencias
+13
+
+Mouses
+mouses
+14
+
+Teclados
+teclados
+15
+
+Combos Teclado / Mouse
+combos
+16
+
+Almacenamiento
+almacenamiento
+17
