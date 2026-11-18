@@ -18,7 +18,7 @@ urlsphinx: black-days-cupones (CREADA)
 
 /black-days/computadores-y-tablets (ACTUALIZADA)
 Computadores y Tablets
-urlsphinx: /black-days-computadores-y-tablets
+urlsphinx: /
 2039
 
 /black-days/monitores (OK)
